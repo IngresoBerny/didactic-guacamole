@@ -352,3 +352,16 @@
 [19:37:17] [Server thread/INFO]: Gathorin joined the game
 [19:37:18] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathorin accepted server config.
 [19:37:42] [Server thread/INFO]: Gathorin teleported to 54867.5 121.0 1054509.5 minecraft:overworld
+[19:38:06] [Server thread/INFO]: Gathorin teleported to 54867.5 121.0 1054509.5 minecraft:overworld
+[19:39:03] [Server thread/INFO]: Gathorin teleported to 56833.5 74.0 1055842.5 minecraft:overworld
+[19:39:38] [Server thread/INFO]: Gathorin teleported to 52536.0 143.0 1056184.0 minecraft:overworld
+[19:39:39] [Worker-Main-2/WARN]: Couldn't find template pool reference: kaisyn:village/meadow_swiss/villagers
+[19:39:41] [Server thread/WARN]: SrLipord moved too quickly! 8.068674011605708,-0.604424101326714,6.184960852845734
+[19:39:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[19:40:40] [Server thread/INFO]: Gathorin teleported to -12270.5 -5.0 -1809.5 minecraft:overworld
+[19:43:12] [Server thread/INFO]: SrLipord lost connection: Timed out
+[19:43:12] [Server thread/INFO]: SrLipord left the game
+[19:43:12] [Server thread/WARN]: handleDisconnection() called twice
+[19:43:47] [Server thread/INFO]: Gathorin lost connection: Disconnected
+[19:43:47] [Server thread/INFO]: Gathorin left the game
+[19:44:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
