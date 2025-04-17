@@ -1613,3 +1613,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [23:01:45] [Server thread/INFO]: There are 3 of a max of 20 players online: ItsLiloRD, xXTHEONEXx, Gathorin
 [23:03:16] [Server thread/INFO]: xXTHEONEXx lost connection: Disconnected
 [23:03:16] [Server thread/INFO]: xXTHEONEXx left the game
+[23:05:53] [Server thread/INFO]: Gathorin lost connection: Disconnected
+[23:05:53] [Server thread/INFO]: Gathorin left the game
+[23:13:57] [Server thread/INFO]: [Not Secure] <ItsLiloRD> OLA
+[23:14:32] [Server thread/INFO]: [ItsLiloRD: Set own game mode to Creative Mode]
+[23:14:36] [Server thread/INFO]: Villager class_1646['Farmer'/183865, l='ServerLevel[world]', x=-1286.41, y=85.94, z=-723.12] died, message: 'Farmer was slain by ItsLiloRD'
+[23:14:39] [Server thread/INFO]: Villager class_1646['Farmer'/183866, l='ServerLevel[world]', x=-1287.79, y=85.94, z=-726.71] died, message: 'Farmer was slain by ItsLiloRD'
+[23:14:45] [Server thread/INFO]: [ItsLiloRD: Set own game mode to Survival Mode]
