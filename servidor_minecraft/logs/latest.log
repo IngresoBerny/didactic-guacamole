@@ -1620,3 +1620,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [23:14:36] [Server thread/INFO]: Villager class_1646['Farmer'/183865, l='ServerLevel[world]', x=-1286.41, y=85.94, z=-723.12] died, message: 'Farmer was slain by ItsLiloRD'
 [23:14:39] [Server thread/INFO]: Villager class_1646['Farmer'/183866, l='ServerLevel[world]', x=-1287.79, y=85.94, z=-726.71] died, message: 'Farmer was slain by ItsLiloRD'
 [23:14:45] [Server thread/INFO]: [ItsLiloRD: Set own game mode to Survival Mode]
+[23:32:10] [Server thread/INFO]: TheDarielito[/127.148.126.171:59099] logged in with entity id 216576 at (-1030.8403341431174, 80.0, -766.0948538675598)
+[23:32:10] [Server thread/INFO]: TheDarielito joined the game
+[23:32:13] [Server thread/INFO]: [do_a_barrel_roll] Client of TheDarielito accepted server config.
+[23:32:57] [Server thread/INFO]: TheDarielito teleported to -341.5 -59.0 -536.5 minecraft:overworld
