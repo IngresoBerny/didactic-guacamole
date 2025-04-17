@@ -3241,77 +3241,35 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:05:38 +0000"
+      "has_moss_block": "2025-04-17 03:57:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "terrestria:recipes/building_blocks/mossy_volcanic_rock_bricks": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:05:38 +0000"
+      "has_mossy_ingredients": "2025-04-17 03:57:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "terrestria:recipes/building_blocks/mossy_volcanic_rock_cobblestone": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:05:38 +0000"
+      "has_mossy_ingredients": "2025-04-17 03:57:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:05:38 +0000"
+      "has_moss_block": "2025-04-17 03:57:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:05:38 +0000"
+      "has_moss_block": "2025-04-17 03:57:54 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:05:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:05:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:05:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:05:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:05:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:05:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-17 04:05:38 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
@@ -3328,12 +3286,6 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-17 04:01:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-04-17 03:57:54 +0000"
     },
     "done": true
   },
@@ -3355,33 +3307,15 @@
     },
     "done": true
   },
-  "terrestria:recipes/building_blocks/mossy_volcanic_rock_bricks": {
-    "criteria": {
-      "has_mossy_ingredients": "2025-04-17 03:57:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-17 04:01:05 +0000"
     },
     "done": true
   },
-  "terrestria:recipes/building_blocks/mossy_volcanic_rock_cobblestone": {
-    "criteria": {
-      "has_mossy_ingredients": "2025-04-17 03:57:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-04-17 04:01:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-04-17 03:57:54 +0000"
     },
     "done": true
   },
@@ -3403,11 +3337,77 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_moss_block": "2025-04-17 03:57:54 +0000"
+      "log_spam_fixer": "2025-04-17 20:34:37 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:34:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:34:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:34:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:34:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:34:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:34:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:34:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:34:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:34:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:34:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-17 20:34:37 +0000"
+    },
+    "done": false
   },
   "DataVersion": 4189
 }
