@@ -380,3 +380,19 @@
 [20:06:50] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
 [20:08:23] [Server thread/INFO]: Gathorin lost connection: Disconnected
 [20:08:23] [Server thread/INFO]: Gathorin left the game
+[20:11:03] [Server thread/INFO]: [Not Secure] <ItsLiloRD> A
+[20:11:05] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[20:11:05] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[20:11:06] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[20:11:07] [Server thread/INFO]: ItsLiloRD lost connection: Disconnected
+[20:11:07] [Server thread/INFO]: ItsLiloRD left the game
+[20:11:13] [Server thread/INFO]: ItsLiloRD[/127.85.73.146:59673] logged in with entity id 19179 at (-1348.7680713277814, -26.0, -696.5480514598642)
+[20:11:13] [Server thread/INFO]: ItsLiloRD joined the game
+[20:11:13] [Server thread/INFO]: [do_a_barrel_roll] Client of ItsLiloRD accepted server config.
+[20:11:24] [Server thread/INFO]: [Not Secure] <SrLipord> hola Lilo
+[20:11:26] [Server thread/INFO]: [Not Secure] <ItsLiloRD> HOLA
+[20:11:55] [Server thread/INFO]: Gathorin[/127.47.238.219:51471] logged in with entity id 20115 at (-12271.471315815315, -5.0, -1811.4275766998878)
+[20:11:55] [Server thread/INFO]: Gathorin joined the game
+[20:11:56] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathorin accepted server config.
+[20:12:16] [Server thread/INFO]: SrLipord teleported to -12270.5 -5.0 -1809.5 minecraft:overworld
+[20:18:28] [Server thread/INFO]: ItsLiloRD teleported to -1296.5 87.0 -737.5 minecraft:overworld
