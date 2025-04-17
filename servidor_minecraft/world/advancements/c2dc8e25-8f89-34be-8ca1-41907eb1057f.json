@@ -765,6 +765,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-17 21:53:05 +0000",
       "minecraft:skeleton": "2025-04-16 05:53:14 +0000",
       "minecraft:phantom": "2025-04-17 04:10:06 +0000",
       "minecraft:vindicator": "2025-04-16 05:53:12 +0000",
@@ -774,6 +775,7 @@
       "minecraft:zombie": "2025-04-16 05:29:10 +0000",
       "minecraft:creeper": "2025-04-16 07:08:26 +0000",
       "minecraft:drowned": "2025-04-17 04:09:52 +0000",
+      "minecraft:zombie_villager": "2025-04-17 21:50:45 +0000",
       "minecraft:husk": "2025-04-17 21:44:05 +0000"
     },
     "done": false
@@ -1232,6 +1234,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-16 20:57:13 +0000",
       "bread": "2025-04-16 05:54:13 +0000",
+      "cookie": "2025-04-17 21:52:18 +0000",
       "cooked_beef": "2025-04-17 03:17:08 +0000",
       "baked_potato": "2025-04-16 06:26:17 +0000",
       "cooked_salmon": "2025-04-17 02:40:10 +0000",
@@ -2364,75 +2367,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:46:05 +0000"
+      "log_spam_fixer": "2025-04-17 21:57:07 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:46:05 +0000"
+      "log_spam_fixer": "2025-04-17 21:57:07 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:46:05 +0000"
+      "log_spam_fixer": "2025-04-17 21:57:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:46:05 +0000"
+      "log_spam_fixer": "2025-04-17 21:57:07 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:46:05 +0000"
+      "log_spam_fixer": "2025-04-17 21:57:07 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:46:05 +0000"
+      "log_spam_fixer": "2025-04-17 21:57:07 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:46:05 +0000"
+      "log_spam_fixer": "2025-04-17 21:57:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:46:05 +0000"
+      "log_spam_fixer": "2025-04-17 21:57:07 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:46:05 +0000"
+      "log_spam_fixer": "2025-04-17 21:57:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:46:05 +0000"
+      "log_spam_fixer": "2025-04-17 21:57:07 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:46:05 +0000"
+      "log_spam_fixer": "2025-04-17 21:57:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:46:05 +0000"
+      "log_spam_fixer": "2025-04-17 21:57:07 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-17 21:55:42 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
@@ -2440,9 +2449,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-17 21:55:24 +0000"
+    },
+    "done": true
+  },
   "sereneseasons:recipes/tools/calendar": {
     "criteria": {
       "has_clock": "2025-04-17 21:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-17 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-17 21:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-04-17 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-04-17 21:55:42 +0000"
     },
     "done": true
   },

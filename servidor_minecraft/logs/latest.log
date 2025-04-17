@@ -1322,3 +1322,65 @@
 [21:51:29] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> musica de seso
 [21:51:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
 [21:51:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:52:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5543ms or 110 ticks behind
+[21:52:23] [Server thread/WARN]: Oak Boat (vehicle of SrLipord) moved wrongly! 0.37564339411437686
+[21:52:23] [Server thread/WARN]: Oak Boat (vehicle of SrLipord) moved wrongly! 0.67575126387419
+[21:52:23] [Server thread/WARN]: Oak Boat (vehicle of SrLipord) moved wrongly! 1.0646400146561064
+[21:52:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11583ms or 231 ticks behind
+[21:52:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3252ms or 65 ticks behind
+[21:53:33] [Server thread/INFO]: ItsLiloRD teleported to -1578.0 -50.0 -876.0 minecraft:overworld
+[21:53:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[21:53:38] [Server thread/INFO]: Gathorin has made the advancement [Ol' Betsy]
+[21:54:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:55:00] [Server thread/INFO]: [Not Secure] <SrLipord> discord
+[21:55:02] [Server thread/INFO]: [Not Secure] <SrLipord> voice
+[21:55:05] [Server thread/INFO]: [Not Secure] <SrLipord> tone
+[21:55:42] [Server thread/INFO]: Gathorin has made the advancement [Who is Cutting Onions?]
+[21:57:18] [Server thread/INFO]: [Not Secure] <SrLipord> tone
+[21:57:20] [Server thread/INFO]: [Not Secure] <SrLipord> ven a la casa
+[21:57:21] [Server thread/INFO]: Villager class_1646['Fisherman'/145923, l='ServerLevel[world]', x=50362.16, y=86.00, z=1056225.21] died, message: 'Fisherman was shot by Pillager'
+[21:57:21] [Server thread/INFO]: [Not Secure] <TheDarielito> Rockabye
+[21:57:31] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> estoy en la casa
+[21:57:42] [Server thread/INFO]: Villager class_1646['Fisherman'/145921, l='ServerLevel[world]', x=50352.37, y=93.00, z=1056239.83] died, message: 'Fisherman was shot by Pillager'
+[21:58:25] [Server thread/INFO]: ItsLiloRD teleported to -1923.0 -54.0 -1004.0 minecraft:overworld
+[21:58:27] [Server thread/INFO]: Villager class_1646['Nitwit'/145673, l='ServerLevel[world]', x=50430.42, y=79.00, z=1056156.62] died, message: 'Nitwit was shot by Pillager'
+[21:58:36] [Server thread/INFO]: [Not Secure] <SrLipord> q duro no?
+[21:58:39] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> xD el diablo
+[21:58:43] [Server thread/INFO]: ItsLiloRD teleported to -2025.0 -54.0 -1028.0 minecraft:overworld
+[21:58:50] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> toemem conciencias esas vainas
+[21:58:55] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> tienen?
+[21:58:57] [Server thread/INFO]: Villager class_1646['Fisherman'/138967, l='ServerLevel[world]', x=50366.21, y=86.00, z=1056254.49] died, message: 'Fisherman was slain by Zombie'
+[21:58:58] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> se quedan viendo
+[21:59:00] [Worker-Main-6/WARN]: Couldn't find template pool reference: kaisyn:village/beach_lighthouse/villager_lighthouse_master
+[21:59:09] [Server thread/INFO]: Villager class_1646['Librarian'/145749, l='ServerLevel[world]', x=50367.14, y=86.50, z=1056253.70] died, message: 'Librarian was shot by Pillager'
+[21:59:12] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> WAOS
+[21:59:17] [Server thread/INFO]: Villager class_1646['Unemployed'/138964, l='ServerLevel[world]', x=50450.15, y=86.50, z=1056264.32] died, message: 'Unemployed was slain by Husk'
+[22:00:05] [Server thread/INFO]: Villager class_1646['Fisherman'/145922, l='ServerLevel[world]', x=50352.22, y=91.18, z=1056243.50] died, message: 'Fisherman was shot by Pillager'
+[22:00:13] [Server thread/INFO]: Villager class_1646['Fisherman'/145920, l='ServerLevel[world]', x=50363.89, y=92.00, z=1056211.17] died, message: 'Fisherman was shot by Pillager'
+[22:02:05] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-18.0.798-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-4.4.0+db5e668204-3d67c883c023e00c.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[22:02:42] [Server thread/INFO]: ItsLiloRD teleported to -1947.0 -33.0 -1259.0 minecraft:overworld
