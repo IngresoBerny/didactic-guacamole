@@ -708,3 +708,5 @@ java.lang.Throwable
 [20:29:20] [Server thread/DEBUG] [REI] Player Gathorin has outdated displays version 0 [latest version: AE3D32CB00000001], sending reset packet request.
 [20:30:08] [Server thread/DEBUG] [REI] Player TheDarielito has outdated displays version 0 [latest version: AE3D32CB00000001]
 [20:30:08] [Server thread/DEBUG] [REI] Player TheDarielito has outdated displays version 0 [latest version: AE3D32CB00000001], sending reset packet request.
+[20:42:25] [Server thread/DEBUG] [REI] Player Gathorin has outdated displays version 0 [latest version: AE3D32CB00000001]
+[20:42:25] [Server thread/DEBUG] [REI] Player Gathorin has outdated displays version 0 [latest version: AE3D32CB00000001], sending reset packet request.
