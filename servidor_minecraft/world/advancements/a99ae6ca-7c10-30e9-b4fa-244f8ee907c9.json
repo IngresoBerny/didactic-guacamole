@@ -2267,73 +2267,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:56:38 +0000"
+      "log_spam_fixer": "2025-04-17 05:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:56:38 +0000"
+      "log_spam_fixer": "2025-04-17 05:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:56:38 +0000"
+      "log_spam_fixer": "2025-04-17 05:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:56:38 +0000"
+      "log_spam_fixer": "2025-04-17 05:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:56:38 +0000"
+      "log_spam_fixer": "2025-04-17 05:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:56:38 +0000"
+      "log_spam_fixer": "2025-04-17 05:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:56:38 +0000"
+      "log_spam_fixer": "2025-04-17 05:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:56:38 +0000"
+      "log_spam_fixer": "2025-04-17 05:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:56:38 +0000"
+      "log_spam_fixer": "2025-04-17 05:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:56:38 +0000"
+      "log_spam_fixer": "2025-04-17 05:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:56:38 +0000"
+      "log_spam_fixer": "2025-04-17 05:10:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 04:56:38 +0000"
+      "log_spam_fixer": "2025-04-17 05:10:38 +0000"
     },
     "done": false
   },
@@ -2493,6 +2493,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-04-17 05:04:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-17 03:41:41 +0000"
@@ -2604,6 +2610,12 @@
   "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-17 02:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-17 05:00:25 +0000"
     },
     "done": true
   },
@@ -2814,6 +2826,12 @@
   "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-17 02:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 05:00:25 +0000"
     },
     "done": true
   },
