@@ -56,13 +56,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-04-16 05:13:42 +0000",
+      "minecraft:dark_forest": "2025-04-17 21:17:18 +0000",
       "minecraft:forest": "2025-04-17 19:40:03 +0000",
-      "minecraft:deep_dark": "2025-04-16 06:47:28 +0000",
       "minecraft:deep_ocean": "2025-04-16 06:55:22 +0000",
       "minecraft:river": "2025-04-16 23:17:44 +0000",
+      "minecraft:dripstone_caves": "2025-04-17 02:56:54 +0000",
+      "minecraft:deep_dark": "2025-04-16 06:47:28 +0000",
+      "minecraft:jungle": "2025-04-17 21:14:31 +0000",
+      "minecraft:birch_forest": "2025-04-17 21:13:20 +0000",
       "minecraft:windswept_gravelly_hills": "2025-04-16 23:18:42 +0000",
       "minecraft:windswept_hills": "2025-04-16 23:18:40 +0000",
-      "minecraft:dripstone_caves": "2025-04-17 02:56:54 +0000",
       "minecraft:windswept_savanna": "2025-04-16 23:16:47 +0000",
       "minecraft:plains": "2025-04-16 23:18:46 +0000"
     },
@@ -2076,75 +2079,93 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:05:12 +0000"
+      "log_spam_fixer": "2025-04-17 21:26:50 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:05:12 +0000"
+      "log_spam_fixer": "2025-04-17 21:26:50 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:05:12 +0000"
+      "log_spam_fixer": "2025-04-17 21:26:50 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:05:12 +0000"
+      "log_spam_fixer": "2025-04-17 21:26:50 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:05:12 +0000"
+      "log_spam_fixer": "2025-04-17 21:26:50 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:05:12 +0000"
+      "log_spam_fixer": "2025-04-17 21:26:50 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:05:12 +0000"
+      "log_spam_fixer": "2025-04-17 21:26:50 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:05:12 +0000"
+      "log_spam_fixer": "2025-04-17 21:26:50 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:05:12 +0000"
+      "log_spam_fixer": "2025-04-17 21:26:50 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:05:12 +0000"
+      "log_spam_fixer": "2025-04-17 21:26:50 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:05:12 +0000"
+      "log_spam_fixer": "2025-04-17 21:26:50 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 21:05:12 +0000"
+      "log_spam_fixer": "2025-04-17 21:26:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:17:56 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-04-17 21:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:17:56 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
@@ -2155,6 +2176,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-17 20:57:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-04-17 21:23:52 +0000"
     },
     "done": true
   },
@@ -2170,15 +2197,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-04-17 21:23:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-04-17 21:02:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:17:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-04-17 20:57:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-17 21:18:58 +0000"
     },
     "done": true
   },
@@ -2212,9 +2257,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-17 21:18:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-17 20:57:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-17 21:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-17 21:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:17:56 +0000"
     },
     "done": true
   },
@@ -2227,6 +2320,24 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-04-17 20:58:08 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_dark_forest": "2025-04-17 21:17:42 +0000"
+    },
+    "done": false
+  },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_wood": "2025-04-17 21:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-17 21:18:58 +0000"
     },
     "done": true
   },
@@ -2260,6 +2371,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-17 21:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-17 21:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-04-17 21:18:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-04-17 20:57:06 +0000"
@@ -2272,6 +2401,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-17 21:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:17:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-04-17 21:02:00 +0000"
@@ -2281,6 +2422,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-17 20:57:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-04-17 21:17:56 +0000"
     },
     "done": true
   },
