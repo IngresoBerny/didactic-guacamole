@@ -1268,3 +1268,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [04:48:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [04:48:51] [Server thread/INFO]: e<--[HERE]
 [04:49:27] [Server thread/INFO]: Vector has made the advancement [Voluntary Exile]
+[04:53:19] [Server thread/INFO]: Vector lost connection: Disconnected
+[04:53:19] [Server thread/INFO]: Vector left the game
+[05:02:13] [Server thread/INFO]: xXTHEONEXx[/127.193.56.197:50299] logged in with entity id 156925 at (-1837.848047786356, 164.0, -12878.722305186484)
+[05:02:13] [Server thread/INFO]: xXTHEONEXx joined the game
+[05:02:14] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[05:02:20] [Server thread/INFO]: [Not Secure] <ItsLiloRD> a
