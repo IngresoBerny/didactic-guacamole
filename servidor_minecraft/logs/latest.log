@@ -1578,3 +1578,38 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [22:42:25] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
 [22:42:30] [Server thread/INFO]: xXTHEONEXx teleported to 50424.5 74.0 1056117.5 minecraft:overworld
 [22:43:13] [Server thread/INFO]: Gathorin teleported to 49704.0 66.0 1056025.0 minecraft:overworld
+[22:44:10] [Server thread/INFO]: Gathorin teleported to 49193.0 148.0 1056320.0 minecraft:overworld
+[22:44:30] [Server thread/INFO]: Gathorin teleported to 49590.0 72.0 1055954.0 minecraft:overworld
+[22:44:55] [Server thread/INFO]: [Not Secure] <ItsLiloRD> ZZZZZ
+[22:45:15] [Server thread/INFO]: Gathorin teleported to 49513.0 66.0 1055857.0 minecraft:overworld
+[22:45:18] [Server thread/INFO]: Gathorin lost connection: Disconnected
+[22:45:18] [Server thread/INFO]: Gathorin left the game
+[22:45:27] [Server thread/INFO]: xXTHEONEXx lost connection: Disconnected
+[22:45:27] [Server thread/INFO]: xXTHEONEXx left the game
+[22:45:32] [Server thread/INFO]: xXTHEONEXx[/127.193.56.197:36195] logged in with entity id 197486 at (50363.67985596472, 85.0, 1056110.9935498666)
+[22:45:32] [Server thread/INFO]: xXTHEONEXx joined the game
+[22:45:32] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[22:45:57] [Server thread/INFO]: xXTHEONEXx has made the advancement [Voluntary Exile]
+[22:46:10] [Server thread/INFO]: Gathorin[/127.47.238.219:56475] logged in with entity id 198346 at (49513.0, 66.0, 1055857.0)
+[22:46:10] [Server thread/INFO]: Gathorin joined the game
+[22:46:10] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathorin accepted server config.
+[22:46:30] [Server thread/INFO]: Villager class_1646['Fisherman'/197983, l='ServerLevel[world]', x=50303.50, y=101.00, z=1056232.66] died, message: 'Fisherman was shot by Pillager'
+[22:47:40] [Server thread/INFO]: Gathorin teleported to 49410.0 116.0 1055731.0 minecraft:overworld
+[22:49:49] [Server thread/INFO]: Gathorin teleported to 49470.0 134.0 1055627.0 minecraft:overworld
+[22:51:18] [Server thread/INFO]: Gathorin teleported to 49484.0 129.0 1055636.0 minecraft:overworld
+[22:51:35] [Server thread/INFO]: Gathorin teleported to 49375.0 154.0 1055629.0 minecraft:overworld
+[22:54:18] [Server thread/INFO]: Gathorin teleported to 49256.0 176.0 1055568.0 minecraft:overworld
+[22:54:39] [Server thread/INFO]: Gathorin teleported to 49334.0 136.0 1055818.0 minecraft:overworld
+[22:56:32] [Server thread/INFO]: xXTHEONEXx teleported to -1322.5 149.0 -13435.5 minecraft:overworld
+[22:56:42] [Server thread/INFO]: Gathorin teleported to 49121.0 241.0 1055459.0 minecraft:overworld
+[22:56:42] [Server thread/INFO]: xXTHEONEXx has made the advancement [What a Deal!]
+[22:57:25] [Server thread/INFO]: xXTHEONEXx teleported to -2288.5 183.0 -11889.5 minecraft:overworld
+[22:57:30] [Server thread/WARN]: Gathorin moved too quickly! 8.525842697788903,-4.414543784505355,2.980157743440941
+[22:59:26] [Server thread/INFO]: xXTHEONEXx teleported to -12268.5 -5.0 -1811.5 minecraft:overworld
+[23:00:52] [Server thread/INFO]: xXTHEONEXx teleported to -12268.5 -5.0 -1811.5 minecraft:overworld
+[23:00:55] [Server thread/INFO]: xXTHEONEXx teleported to -2288.5 183.0 -11889.5 minecraft:overworld
+[23:01:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:01:44] [Server thread/INFO]: <--[HERE]
+[23:01:45] [Server thread/INFO]: There are 3 of a max of 20 players online: ItsLiloRD, xXTHEONEXx, Gathorin
+[23:03:16] [Server thread/INFO]: xXTHEONEXx lost connection: Disconnected
+[23:03:16] [Server thread/INFO]: xXTHEONEXx left the game

@@ -2917,79 +2917,92 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 22:42:22 +0000"
+      "log_spam_fixer": "2025-04-17 23:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 22:42:22 +0000"
+      "log_spam_fixer": "2025-04-17 23:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 22:42:22 +0000"
+      "log_spam_fixer": "2025-04-17 23:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 22:42:22 +0000"
+      "requirement": "2025-04-17 23:02:27 +0000",
+      "log_spam_fixer": "2025-04-17 23:02:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 22:42:22 +0000"
+      "log_spam_fixer": "2025-04-17 23:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 22:42:22 +0000"
+      "log_spam_fixer": "2025-04-17 23:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 22:42:22 +0000"
+      "log_spam_fixer": "2025-04-17 23:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 22:42:22 +0000"
+      "log_spam_fixer": "2025-04-17 23:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 22:42:22 +0000"
+      "log_spam_fixer": "2025-04-17 23:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 22:42:22 +0000"
+      "log_spam_fixer": "2025-04-17 23:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 22:42:22 +0000"
+      "log_spam_fixer": "2025-04-17 23:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 22:42:22 +0000"
+      "log_spam_fixer": "2025-04-17 23:02:22 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-17 22:54:53 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-17 22:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-17 22:54:55 +0000"
     },
     "done": true
   },
@@ -3008,6 +3021,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-04-17 22:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-17 22:54:51 +0000"
     },
     "done": true
   },
@@ -3146,6 +3165,12 @@
   "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2025-04-17 22:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-04-17 22:55:35 +0000"
     },
     "done": true
   },
