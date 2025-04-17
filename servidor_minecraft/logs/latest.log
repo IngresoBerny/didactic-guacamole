@@ -543,3 +543,47 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [03:07:51] [Server thread/INFO]: Vector[/127.193.171.90:33217] logged in with entity id 47249 at (-10760.464841709962, 138.0, -2525.7392214353963)
 [03:07:51] [Server thread/INFO]: Vector joined the game
 [03:07:53] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
+[03:08:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[03:08:40] [Server thread/INFO]: ItsLiloRD was slain by Zombie
+[03:08:41] [Server thread/INFO]: [do_a_barrel_roll] Client of ItsLiloRD accepted server config.
+[03:08:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4186ms or 83 ticks behind
+[03:09:18] [Server thread/INFO]: Villager class_1646['Unemployed'/33172, l='ServerLevel[world]', x=190.48, y=85.00, z=-1284.88] died, message: 'Unemployed suffocated in a wall'
+[03:11:03] [Server thread/INFO]: [Not Secure] <SrLipord> eee
+[03:11:03] [Server thread/INFO]: [Not Secure] <SrLipord> eee
+[03:11:04] [Server thread/INFO]: [Not Secure] <SrLipord> eee
+[03:11:06] [Server thread/INFO]: [Not Secure] <SrLipord> ee
+[03:11:09] [Server thread/INFO]: [Not Secure] <SrLipord> eeeeee
+[03:11:10] [Server thread/INFO]: [Not Secure] <SrLipord> e
+[03:13:18] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
+[03:13:35] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[03:13:36] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[03:13:36] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[03:13:43] [Server thread/INFO]: [Not Secure] <ItsLiloRD> zzzz
+[03:13:49] [Server thread/INFO]: [Not Secure] <Vector> z
+[03:14:14] [Server thread/INFO]: [Not Secure] <ItsLiloRD> zzzzzzzzzzzzzz
+[03:14:31] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[03:14:31] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[03:14:31] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[03:14:31] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[03:14:31] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[03:14:42] [Server thread/INFO]: Gathorin lost connection: Disconnected
+[03:14:42] [Server thread/INFO]: Gathorin left the game
+[03:14:50] [Server thread/INFO]: Gathorin[/127.47.238.219:56993] logged in with entity id 56218 at (56846.972823644566, 70.0, 1055818.300000012)
+[03:14:50] [Server thread/INFO]: Gathorin joined the game
+[03:14:50] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathorin accepted server config.
+[03:15:26] [Server thread/INFO]: [SrLipord: Teleported SrLipord to TheDarielito]
+[03:15:28] [Server thread/INFO]: [SrLipord: Made ItsLiloRD a server operator]
+[03:15:28] [Server thread/INFO]: [do_a_barrel_roll] Client of ItsLiloRD accepted server config.
+[03:15:30] [Server thread/INFO]: [Not Secure] <SrLipord> lilo
+[03:15:33] [Server thread/INFO]: [Not Secure] <ItsLiloRD> k
+[03:15:35] [Server thread/INFO]: [Not Secure] <SrLipord> no te había dado op para el tp
+[03:15:36] [Server thread/INFO]: [Not Secure] <SrLipord> xd
+[03:15:38] [Server thread/INFO]: [Not Secure] <ItsLiloRD> a
+[03:15:39] [Server thread/INFO]: [Not Secure] <ItsLiloRD> xd
+[03:15:44] [Server thread/INFO]: [Not Secure] <ItsLiloRD> grax
+[03:17:26] [Server thread/INFO]: SrLipord teleported to -1322.5 149.0 -13435.5 minecraft:overworld
+[03:17:53] [Server thread/INFO]: ItsLiloRD was shot by Skeleton
+[03:17:55] [Server thread/INFO]: [do_a_barrel_roll] Client of ItsLiloRD accepted server config.
+[03:18:05] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
+[03:18:06] [Server thread/INFO]: [ItsLiloRD: Teleported ItsLiloRD to -855.500000, -24.000000, 195.500000]
+[03:18:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
