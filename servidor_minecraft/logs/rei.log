@@ -696,3 +696,7 @@ java.lang.Throwable
 [19:37:17] [Server thread/DEBUG] [REI] Player Gathorin has outdated displays version 0 [latest version: AE3D32CB00000001], sending reset packet request.
 [19:55:07] [Server thread/DEBUG] [REI] Player ItsLiloRD has outdated displays version 0 [latest version: AE3D32CB00000001]
 [19:55:07] [Server thread/DEBUG] [REI] Player ItsLiloRD has outdated displays version 0 [latest version: AE3D32CB00000001], sending reset packet request.
+[20:00:35] [Server thread/DEBUG] [REI] Player Gathorin has outdated displays version 0 [latest version: AE3D32CB00000001]
+[20:00:35] [Server thread/DEBUG] [REI] Player Gathorin has outdated displays version 0 [latest version: AE3D32CB00000001], sending reset packet request.
+[20:06:49] [Server thread/DEBUG] [REI] Player SrLipord has outdated displays version 0 [latest version: AE3D32CB00000001]
+[20:06:49] [Server thread/DEBUG] [REI] Player SrLipord has outdated displays version 0 [latest version: AE3D32CB00000001], sending reset packet request.
