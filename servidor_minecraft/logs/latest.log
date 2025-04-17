@@ -364,3 +364,59 @@
 [05:57:52] [Server thread/INFO]: xXTHEONEXx was shot by Stray
 [05:57:54] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
 [05:57:55] [Server thread/INFO]: xXTHEONEXx teleported to -1888.5 -33.0 -12261.5 minecraft:overworld
+[06:04:57] [Server thread/INFO]: xXTHEONEXx was shot by Stray
+[06:04:59] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[06:05:02] [Server thread/INFO]: xXTHEONEXx teleported to -1895.5 -30.0 -12204.5 minecraft:overworld
+[06:05:15] [Server thread/INFO]: xXTHEONEXx was shot by Stray
+[06:05:16] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[06:05:18] [Server thread/INFO]: xXTHEONEXx teleported to -1895.5 -30.0 -12204.5 minecraft:overworld
+[06:05:31] [Server thread/INFO]: xXTHEONEXx was shot by Stray
+[06:05:33] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[06:05:34] [Server thread/INFO]: xXTHEONEXx teleported to -1893.5 -30.0 -12204.5 minecraft:overworld
+[06:05:49] [Server thread/INFO]: xXTHEONEXx was shot by Stray
+[06:05:50] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[06:05:51] [Server thread/INFO]: xXTHEONEXx teleported to -1893.5 -30.0 -12208.5 minecraft:overworld
+[06:09:44] [Server thread/INFO]: xXTHEONEXx was shot by Skeleton
+[06:09:45] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[06:09:46] [Server thread/INFO]: xXTHEONEXx teleported to -1890.5 -30.0 -12210.5 minecraft:overworld
+[06:09:50] [Server thread/INFO]: xXTHEONEXx teleported to -1863.5 -31.0 -12196.5 minecraft:overworld
+[06:13:04] [Server thread/INFO]: xXTHEONEXx was shot by Stray
+[06:13:06] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[06:13:07] [Server thread/INFO]: xXTHEONEXx teleported to -1863.5 -31.0 -12196.5 minecraft:overworld
+[06:13:10] [Server thread/INFO]: xXTHEONEXx teleported to -1876.5 -41.0 -12284.5 minecraft:overworld
+[06:13:30] [Server thread/INFO]: xXTHEONEXx was shot by Stray
+[06:13:32] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[06:13:33] [Server thread/INFO]: xXTHEONEXx teleported to -1895.5 -30.0 -12204.5 minecraft:overworld
+[06:13:35] [Server thread/INFO]: xXTHEONEXx teleported to -1870.5 -43.0 -12280.5 minecraft:overworld
+[06:13:55] [Server thread/INFO]: xXTHEONEXx was shot by Stray
+[06:13:56] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[06:13:58] [Server thread/INFO]: xXTHEONEXx teleported to -1870.5 -43.0 -12280.5 minecraft:overworld
+[06:13:59] [Server thread/INFO]: xXTHEONEXx teleported to -1855.5 -38.0 -12265.5 minecraft:overworld
+[06:14:09] [Server thread/INFO]: xXTHEONEXx was shot by Stray
+[06:14:10] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[06:14:11] [Server thread/INFO]: xXTHEONEXx teleported to -1855.5 -38.0 -12265.5 minecraft:overworld
+[06:16:46] [Server thread/INFO]: xXTHEONEXx teleported to -1920.5 -13.0 -11990.5 minecraft:overworld
+[06:20:10] [Server thread/INFO]: SrLipord[/127.163.204.157:40035] logged in with entity id 8552 at (-2288.699999988079, 183.0, -11888.02779808526)
+[06:20:10] [Server thread/INFO]: SrLipord joined the game
+[06:20:11] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:20:28] [Server thread/INFO]: [xXTHEONEXx: Teleported xXTHEONEXx to -1854.500000, -38.000000, -12270.500000]
+[06:20:34] [Server thread/INFO]: [SrLipord: Teleported SrLipord to xXTHEONEXx]
+[06:21:25] [Server thread/INFO]: SrLipord teleported to -12270.5 -5.0 -1809.5 minecraft:overworld
+[06:21:30] [Server thread/INFO]: [SrLipord: Teleported xXTHEONEXx to SrLipord]
+[06:22:24] [Server thread/INFO]: xXTHEONEXx lost connection: Disconnected
+[06:22:24] [Server thread/INFO]: xXTHEONEXx left the game
+[06:22:34] [Server thread/INFO]: [SrLipord: Stopping the server]
+[06:22:34] [Server thread/INFO]: Stopping server
+[06:22:34] [Server thread/INFO]: Saving players
+[06:22:34] [Server thread/INFO]: SrLipord lost connection: Server closed
+[06:22:34] [Server thread/INFO]: SrLipord left the game
+[06:22:34] [Server thread/INFO]: Saving worlds
+[06:22:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:22:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:22:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:22:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:22:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:22:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:22:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:22:35] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[06:22:35] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml

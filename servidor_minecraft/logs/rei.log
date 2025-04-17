@@ -691,3 +691,5 @@ java.lang.Throwable
 [05:52:03] [Server thread/DEBUG] [REI] Updating players with new displays version C04B8B9B00000001 [from C04B8B9B00000000]
 [05:52:11] [Server thread/DEBUG] [REI] Player xXTHEONEXx has outdated displays version 0 [latest version: C04B8B9B00000001]
 [05:52:11] [Server thread/DEBUG] [REI] Player xXTHEONEXx has outdated displays version 0 [latest version: C04B8B9B00000001], sending reset packet request.
+[06:20:10] [Server thread/DEBUG] [REI] Player SrLipord has outdated displays version 0 [latest version: C04B8B9B00000001]
+[06:20:10] [Server thread/DEBUG] [REI] Player SrLipord has outdated displays version 0 [latest version: C04B8B9B00000001], sending reset packet request.
