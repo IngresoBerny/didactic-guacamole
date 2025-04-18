@@ -618,3 +618,41 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [08:37:14] [Server thread/INFO]: SrLipord teleported to 3008.5 95.0 -531.5 minecraft:overworld
 [08:40:16] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathorin]
 [08:40:35] [Server thread/WARN]: SrLipord moved wrongly!
+[08:41:20] [Server thread/INFO]: [SrLipord: Set the weather to rain & thunder]
+[08:42:14] [Server thread/INFO]: Luna_trix[/127.48.164.216:58151] logged in with entity id 51181 at (-292.30000001192093, -52.0, 196.46916107467166)
+[08:42:14] [Server thread/INFO]: Luna_trix joined the game
+[08:42:15] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
+[08:42:29] [Server thread/INFO]: [Luna_trix: Teleported Luna_trix to Gathorin]
+[08:42:34] [Server thread/INFO]: SrLipord was blown up by Creeper
+[08:42:37] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[08:42:40] [Server thread/INFO]: SrLipord teleported to 3082.5 80.0 -552.5 minecraft:overworld
+[08:43:38] [Server thread/INFO]: Luna_trix teleported to 56847.5 50.0 1055851.5 minecraft:overworld
+[08:44:14] [Server thread/INFO]: [Luna_trix: Teleported Luna_trix to Gathorin]
+[08:45:15] [Server thread/INFO]: Gathorin was shot by Skeleton
+[08:45:16] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathorin accepted server config.
+[08:45:27] [Server thread/INFO]: Gathorin teleported to 3059.5 80.0 -522.5 minecraft:overworld
+[08:45:35] [Server thread/INFO]: SrLipord was shot by Skeleton
+[08:45:36] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[08:45:39] [Server thread/INFO]: SrLipord teleported to 3061.5 81.0 -510.5 minecraft:overworld
+[08:47:23] [Server thread/INFO]: SrLipord was blown up by Creeper
+[08:47:24] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[08:47:27] [Server thread/INFO]: SrLipord teleported to 3005.5 81.0 -506.5 minecraft:overworld
+[08:48:45] [Server thread/INFO]: Luna_trix lost connection: Disconnected
+[08:48:45] [Server thread/INFO]: Luna_trix left the game
+[08:48:50] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[08:48:50] [Server thread/INFO]: SrLipord left the game
+[08:48:56] [Server thread/INFO]: Stopping the server
+[08:48:56] [Server thread/INFO]: Stopping server
+[08:48:56] [Server thread/INFO]: Saving players
+[08:48:56] [Server thread/INFO]: Gathorin lost connection: Server closed
+[08:48:56] [Server thread/INFO]: Gathorin left the game
+[08:48:56] [Server thread/INFO]: Saving worlds
+[08:48:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:48:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08:48:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08:48:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:48:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:48:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:48:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:48:57] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[08:48:57] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
