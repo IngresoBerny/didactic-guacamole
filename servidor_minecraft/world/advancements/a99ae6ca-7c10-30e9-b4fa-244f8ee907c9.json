@@ -2917,73 +2917,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 23:42:22 +0000"
+      "log_spam_fixer": "2025-04-18 00:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 23:42:22 +0000"
+      "log_spam_fixer": "2025-04-18 00:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 23:42:22 +0000"
+      "log_spam_fixer": "2025-04-18 00:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 23:42:22 +0000"
+      "log_spam_fixer": "2025-04-18 00:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 23:42:22 +0000"
+      "log_spam_fixer": "2025-04-18 00:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 23:42:22 +0000"
+      "log_spam_fixer": "2025-04-18 00:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 23:42:22 +0000"
+      "log_spam_fixer": "2025-04-18 00:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 23:42:22 +0000"
+      "log_spam_fixer": "2025-04-18 00:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 23:42:22 +0000"
+      "log_spam_fixer": "2025-04-18 00:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 23:42:22 +0000"
+      "log_spam_fixer": "2025-04-18 00:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 23:42:22 +0000"
+      "log_spam_fixer": "2025-04-18 00:02:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-17 23:42:22 +0000"
+      "log_spam_fixer": "2025-04-18 00:02:22 +0000"
     },
     "done": false
   },
@@ -3116,6 +3116,12 @@
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-04-17 22:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-04-17 23:54:22 +0000"
     },
     "done": true
   },
