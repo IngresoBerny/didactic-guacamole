@@ -1413,9 +1413,11 @@
       "minecraft:vindicator": "2025-04-17 21:50:00 +0000",
       "minecraft:stray": "2025-04-17 05:33:23 +0000",
       "minecraft:silverfish": "2025-04-17 05:58:19 +0000",
+      "minecraft:witch": "2025-04-18 20:50:55 +0000",
       "minecraft:spider": "2025-04-14 02:55:14 +0000",
       "minecraft:zombie": "2025-04-14 00:24:51 +0000",
-      "minecraft:creeper": "2025-04-14 02:40:04 +0000"
+      "minecraft:creeper": "2025-04-14 02:40:04 +0000",
+      "minecraft:zombie_villager": "2025-04-18 20:58:11 +0000"
     },
     "done": false
   },
@@ -3688,77 +3690,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 20:46:28 +0000"
+      "enchanted_item": "2025-04-18 20:49:42 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 20:46:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 20:46:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 20:46:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 20:46:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 20:46:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 20:46:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 20:46:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 20:46:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 20:46:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 20:46:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 20:46:28 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 4189
 }
