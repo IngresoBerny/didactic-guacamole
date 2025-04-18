@@ -37,3 +37,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [00:34:48] [Server thread/INFO]: TheDarielito[/127.148.126.171:41431] logged in with entity id 240195 at (-1010.4617964024939, 95.0, -767.4161391134068)
 [00:34:48] [Server thread/INFO]: TheDarielito joined the game
 [00:34:49] [Server thread/INFO]: [do_a_barrel_roll] Client of TheDarielito accepted server config.
+[00:36:18] [Server thread/INFO]: TheDarielito lost connection: Timed out
+[00:36:18] [Server thread/INFO]: TheDarielito left the game
+[00:36:33] [Server thread/INFO]: TheDarielito[/127.148.126.171:51573] logged in with entity id 240981 at (-1010.4617964024939, 95.0, -767.4161391134068)
+[00:36:34] [Server thread/INFO]: TheDarielito joined the game
+[00:36:34] [Server thread/INFO]: [do_a_barrel_roll] Client of TheDarielito accepted server config.
+[00:36:43] [Server thread/INFO]: Villager class_1646['Unemployed'/234726, l='ServerLevel[world]', x=-1285.70, y=83.00, z=-722.59] died, message: 'Unemployed suffocated in a wall'
+[00:39:51] [Server thread/INFO]: TheDarielito lost connection: Disconnected
+[00:39:51] [Server thread/INFO]: TheDarielito left the game
