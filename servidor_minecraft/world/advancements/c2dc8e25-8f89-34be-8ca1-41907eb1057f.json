@@ -55,30 +55,31 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-04-17 19:40:03 +0000",
+      "minecraft:taiga": "2025-04-18 08:23:34 +0000",
+      "minecraft:deep_ocean": "2025-04-16 06:55:22 +0000",
+      "minecraft:lush_caves": "2025-04-17 23:01:21 +0000",
+      "minecraft:desert": "2025-04-17 21:33:42 +0000",
+      "minecraft:jungle": "2025-04-17 21:14:31 +0000",
+      "minecraft:cherry_grove": "2025-04-18 07:59:53 +0000",
+      "minecraft:birch_forest": "2025-04-17 21:13:20 +0000",
+      "minecraft:windswept_hills": "2025-04-16 23:18:40 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-17 21:29:43 +0000",
+      "minecraft:windswept_savanna": "2025-04-16 23:16:47 +0000",
+      "minecraft:warm_ocean": "2025-04-17 22:08:32 +0000",
       "minecraft:badlands": "2025-04-17 22:11:57 +0000",
       "minecraft:savanna_plateau": "2025-04-17 22:24:42 +0000",
       "minecraft:beach": "2025-04-16 05:13:42 +0000",
       "minecraft:dark_forest": "2025-04-17 21:17:18 +0000",
       "minecraft:stony_peaks": "2025-04-17 22:35:06 +0000",
-      "minecraft:forest": "2025-04-17 19:40:03 +0000",
       "minecraft:sparse_jungle": "2025-04-17 22:49:50 +0000",
-      "minecraft:deep_ocean": "2025-04-16 06:55:22 +0000",
       "minecraft:river": "2025-04-16 23:17:44 +0000",
-      "minecraft:lush_caves": "2025-04-17 23:01:21 +0000",
       "minecraft:dripstone_caves": "2025-04-17 02:56:54 +0000",
-      "minecraft:desert": "2025-04-17 21:33:42 +0000",
       "minecraft:deep_dark": "2025-04-16 06:47:28 +0000",
-      "minecraft:jungle": "2025-04-17 21:14:31 +0000",
-      "minecraft:cherry_grove": "2025-04-18 07:59:53 +0000",
-      "minecraft:birch_forest": "2025-04-17 21:13:20 +0000",
       "minecraft:windswept_gravelly_hills": "2025-04-16 23:18:42 +0000",
-      "minecraft:windswept_hills": "2025-04-16 23:18:40 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-04-17 21:29:43 +0000",
       "minecraft:savanna": "2025-04-17 22:25:59 +0000",
-      "minecraft:windswept_savanna": "2025-04-16 23:16:47 +0000",
       "minecraft:plains": "2025-04-16 23:18:46 +0000",
-      "minecraft:jagged_peaks": "2025-04-17 22:32:39 +0000",
-      "minecraft:warm_ocean": "2025-04-17 22:08:32 +0000"
+      "minecraft:jagged_peaks": "2025-04-17 22:32:39 +0000"
     },
     "done": false
   },
@@ -1246,6 +1247,7 @@
       "bread": "2025-04-16 05:54:13 +0000",
       "cooked_chicken": "2025-04-18 07:23:26 +0000",
       "cookie": "2025-04-17 21:52:18 +0000",
+      "potato": "2025-04-18 08:14:01 +0000",
       "cooked_beef": "2025-04-17 03:17:08 +0000",
       "baked_potato": "2025-04-16 06:26:17 +0000",
       "cooked_salmon": "2025-04-17 02:40:10 +0000",
@@ -2853,75 +2855,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 08:05:21 +0000"
+      "log_spam_fixer": "2025-04-18 08:35:21 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 08:05:21 +0000"
+      "log_spam_fixer": "2025-04-18 08:35:21 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 08:05:21 +0000"
+      "log_spam_fixer": "2025-04-18 08:35:21 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 08:05:21 +0000"
+      "log_spam_fixer": "2025-04-18 08:35:21 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 08:05:21 +0000"
+      "log_spam_fixer": "2025-04-18 08:35:21 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 08:05:21 +0000"
+      "log_spam_fixer": "2025-04-18 08:35:21 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 08:05:21 +0000"
+      "log_spam_fixer": "2025-04-18 08:35:21 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 08:05:21 +0000"
+      "log_spam_fixer": "2025-04-18 08:35:21 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 08:05:21 +0000"
+      "log_spam_fixer": "2025-04-18 08:35:21 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 08:05:21 +0000"
+      "log_spam_fixer": "2025-04-18 08:35:21 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 08:05:21 +0000"
+      "log_spam_fixer": "2025-04-18 08:35:21 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 08:05:21 +0000"
+      "log_spam_fixer": "2025-04-18 08:35:21 +0000"
     },
     "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
   },
   "packedup:silver_or_gold_backpack": {
     "criteria": {
@@ -2929,9 +2937,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-18 08:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-18 07:18:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-18 08:11:10 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:24:04 +0000"
     },
     "done": true
   },
@@ -2950,6 +2976,18 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-18 07:18:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_cottage": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
     },
     "done": true
   },
@@ -3007,9 +3045,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-18 08:11:10 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-04-18 07:16:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:24:04 +0000"
     },
     "done": true
   },
@@ -3043,6 +3099,18 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-04-18 08:24:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:24:04 +0000"
+    },
+    "done": true
+  },
   "packedup:recipes/misc/obsidian_from_diamond": {
     "criteria": {
       "recipe_condition": "2025-04-18 07:27:14 +0000"
@@ -3052,6 +3120,12 @@
   "packedup:basic_backpack": {
     "criteria": {
       "has_backpack": "2025-04-18 07:07:05 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
     },
     "done": true
   },
@@ -3073,6 +3147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
   "packedup:recipes/misc/silver_from_iron": {
     "criteria": {
       "recipe_condition": "2025-04-18 07:17:16 +0000"
@@ -3085,9 +3165,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-04-18 07:56:56 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:24:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:24:04 +0000"
     },
     "done": true
   },
@@ -3127,15 +3225,51 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:24:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-18 07:51:21 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:24:04 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_beach": {
     "criteria": {
       "has_logs": "2025-04-18 07:51:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:24:04 +0000"
     },
     "done": true
   },
@@ -3157,6 +3291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-04-18 07:18:35 +0000"
@@ -3169,6 +3309,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-04-18 07:51:21 +0000"
@@ -3178,6 +3324,12 @@
   "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-18 07:51:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
     },
     "done": true
   },
@@ -3199,9 +3351,39 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:24:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-04-18 07:51:23 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-18 08:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-18 08:11:10 +0000"
     },
     "done": true
   },
@@ -3229,9 +3411,27 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-18 07:51:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
     },
     "done": true
   },
@@ -3253,15 +3453,81 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:24:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:24:04 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-18 07:51:21 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-04-18 07:51:23 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:24:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:12:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-18 08:24:04 +0000"
     },
     "done": true
   },
