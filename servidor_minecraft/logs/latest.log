@@ -392,3 +392,25 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [06:27:59] [Server thread/INFO]: [Luna_trix: Teleported SrLipord to Luna_trix]
 [06:28:20] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
 [06:28:37] [Server thread/INFO]: [Luna_trix: Teleported Luna_trix to SrLipord]
+[06:37:57] [Server thread/INFO]: SrLipord teleported to 52542.5 154.0 1056153.5 minecraft:overworld
+[06:38:08] [Server thread/INFO]: [SrLipord: Teleported Luna_trix to SrLipord]
+[06:43:10] [Server thread/INFO]: Luna_trix lost connection: Disconnected
+[06:43:10] [Server thread/INFO]: Luna_trix left the game
+[06:46:49] [Server thread/INFO]: Luna_trix[/127.48.164.216:53855] logged in with entity id 11155 at (52486.30312668812, 120.0, 1056205.5894504183)
+[06:46:49] [Server thread/INFO]: Luna_trix joined the game
+[06:46:50] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
+[06:47:53] [Server thread/INFO]: Luna_trix teleported to 56893.5 63.0 1055888.5 minecraft:overworld
+[06:48:57] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[06:48:57] [Server thread/INFO]: SrLipord left the game
+[06:49:01] [Server thread/INFO]: SrLipord[/127.124.207.5:34751] logged in with entity id 12966 at (52449.74169490105, 119.0, 1056188.338447076)
+[06:49:01] [Server thread/INFO]: SrLipord joined the game
+[06:49:02] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:50:42] [Server thread/INFO]: Gathorin[/127.47.238.219:43307] logged in with entity id 13942 at (49139.01726178984, 219.0, 1055409.300000012)
+[06:50:42] [Server thread/INFO]: Gathorin joined the game
+[06:50:43] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathorin accepted server config.
+[06:52:08] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
+[06:52:35] [Server thread/INFO]: SrLipord teleported to -1284.5 160.0 -13450.5 minecraft:overworld
+[06:53:04] [Server thread/INFO]: Gathorin teleported to 56833.5 74.0 1055842.5 minecraft:overworld
+[06:53:31] [Server thread/INFO]: Gathorin teleported to -293.5 -52.0 197.5 minecraft:overworld
+[06:53:33] [Server thread/INFO]: SrLipord teleported to -1322.5 149.0 -13435.5 minecraft:overworld
+[06:53:35] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
