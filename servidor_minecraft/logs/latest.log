@@ -30,3 +30,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [00:20:24] [Server thread/INFO]: [Not Secure] <TheDarielito> Rockabye
 [00:20:44] [Server thread/INFO]: [Not Secure] <TheDarielito> zzz.....
+[00:25:57] [Server thread/INFO]: [Not Secure] <TheDarielito> Epa
+[00:28:02] [Server thread/INFO]: [Not Secure] <ItsLiloRD> VOY
+[00:34:31] [Server thread/INFO]: TheDarielito lost connection: Timed out
+[00:34:31] [Server thread/INFO]: TheDarielito left the game
+[00:34:48] [Server thread/INFO]: TheDarielito[/127.148.126.171:41431] logged in with entity id 240195 at (-1010.4617964024939, 95.0, -767.4161391134068)
+[00:34:48] [Server thread/INFO]: TheDarielito joined the game
+[00:34:49] [Server thread/INFO]: [do_a_barrel_roll] Client of TheDarielito accepted server config.
