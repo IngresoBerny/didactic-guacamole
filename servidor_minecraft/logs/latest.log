@@ -48,3 +48,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [00:50:39] [Server thread/INFO]: Villager class_1646['Unemployed'/238562, l='ServerLevel[world]', x=-1285.30, y=83.00, z=-722.15] died, message: 'Unemployed suffocated in a wall'
 [01:05:11] [Server thread/INFO]: Villager class_1646['Unemployed'/240739, l='ServerLevel[world]', x=-1350.81, y=92.00, z=-770.75] died, message: 'Unemployed was slain by Zombie'
 [01:15:40] [Server thread/INFO]: There are 1 of a max of 20 players online: ItsLiloRD
+[01:16:19] [Server thread/INFO]: [Not Secure] [Server] mamaguebo
+[01:16:23] [Server thread/INFO]: [Not Secure] <ItsLiloRD> A
+[01:20:04] [Server thread/INFO]: ItsLiloRD lost connection: Disconnected
+[01:20:04] [Server thread/INFO]: ItsLiloRD left the game
+[01:21:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
