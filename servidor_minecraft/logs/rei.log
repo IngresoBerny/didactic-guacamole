@@ -692,3 +692,7 @@ java.lang.Throwable
 [05:59:22] [Server thread/DEBUG] [REI] Updating players with new displays version 48B674D700000001 [from 48B674D700000000]
 [06:06:22] [Server thread/DEBUG] [REI] Player SrLipord has outdated displays version 0 [latest version: 48B674D700000001]
 [06:06:22] [Server thread/DEBUG] [REI] Player SrLipord has outdated displays version 0 [latest version: 48B674D700000001], sending reset packet request.
+[06:09:14] [Server thread/DEBUG] [REI] Player Luna_trix has outdated displays version 0 [latest version: 48B674D700000001]
+[06:09:14] [Server thread/DEBUG] [REI] Player Luna_trix has outdated displays version 0 [latest version: 48B674D700000001], sending reset packet request.
+[06:27:05] [Server thread/DEBUG] [REI] Player Luna_trix has outdated displays version 0 [latest version: 48B674D700000001]
+[06:27:05] [Server thread/DEBUG] [REI] Player Luna_trix has outdated displays version 0 [latest version: 48B674D700000001], sending reset packet request.
