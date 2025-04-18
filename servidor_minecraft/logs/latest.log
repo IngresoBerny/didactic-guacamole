@@ -28,3 +28,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:20:24] [Server thread/INFO]: [Not Secure] <TheDarielito> Rockabye
+[00:20:44] [Server thread/INFO]: [Not Secure] <TheDarielito> zzz.....
