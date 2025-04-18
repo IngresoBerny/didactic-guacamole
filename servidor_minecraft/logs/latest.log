@@ -46,3 +46,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [00:39:51] [Server thread/INFO]: TheDarielito lost connection: Disconnected
 [00:39:51] [Server thread/INFO]: TheDarielito left the game
 [00:50:39] [Server thread/INFO]: Villager class_1646['Unemployed'/238562, l='ServerLevel[world]', x=-1285.30, y=83.00, z=-722.15] died, message: 'Unemployed suffocated in a wall'
+[01:05:11] [Server thread/INFO]: Villager class_1646['Unemployed'/240739, l='ServerLevel[world]', x=-1350.81, y=92.00, z=-770.75] died, message: 'Unemployed was slain by Zombie'
