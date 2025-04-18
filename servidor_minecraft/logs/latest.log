@@ -1,10 +1,10 @@
-[05:58:51] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.13
-[05:58:55] [main/WARN]: Warnings were found!
+[18:41:56] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.13
+[18:41:56] [main/WARN]: Warnings were found!
  - Mod 'Bridging Mod' (bridgingmod) 2.6.2+1.21.3 recommends version 12.0.0-beta.1 or later of modmenu, which is missing!
 	 - You should install version 12.0.0-beta.1 or later of modmenu for the optimal experience.
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.4.1 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[05:58:55] [main/INFO]: Loading 170 mods:
+[18:41:56] [main/INFO]: Loading 170 mods:
 	- amplified_nether 1.2.7
 	- appleskin 3.0.6+mc1.21.3
 	- architectury 15.0.3
@@ -198,461 +198,157 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[05:58:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/didactic-guacamole/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[05:58:55] [main/INFO]: Compatibility level set to JAVA_21
-[05:58:56] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:58:56] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:58:56] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:58:56] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:58:56] [main/WARN]: Reference map 'durabilitytooltip.mixins.refmap.json' for durabilitytooltip.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:58:56] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:58:56] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:58:56] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:58:56] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:58:56] [main/INFO]: Loaded configuration file for ModernFix 5.20.3+mc1.21.4: 54 options available, 0 override(s) found
-[05:58:56] [main/INFO]: Applying Nashorn fix
-[05:58:56] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:58:57] [main/WARN]: Error loading class: net/minecraft/class_458 (java.lang.ClassNotFoundException: net/minecraft/class_458)
-[05:58:57] [main/WARN]: @Mixin target net.minecraft.class_458 was not found crawl.client.mixins.json:ControlsScreenMixin from mod crawl
-[05:58:57] [main/WARN]: Error loading class: net/minecraft/class_572 (java.lang.ClassNotFoundException: net/minecraft/class_572)
-[05:58:57] [main/WARN]: @Mixin target net.minecraft.class_572 was not found crawl.client.mixins.json:HumanoidModelMixin from mod crawl
-[05:58:57] [main/WARN]: Error loading class: net/minecraft/class_10034 (java.lang.ClassNotFoundException: net/minecraft/class_10034)
-[05:58:57] [main/WARN]: @Mixin target net.minecraft.class_10034 was not found crawl.client.mixins.json:HumanoidRenderStateMixin from mod crawl
-[05:58:57] [main/WARN]: Error loading class: net/minecraft/class_746 (java.lang.ClassNotFoundException: net/minecraft/class_746)
-[05:58:57] [main/WARN]: @Mixin target net.minecraft.class_746 was not found crawl.client.mixins.json:LocalPlayerMixin from mod crawl
-[05:58:57] [main/WARN]: Error loading class: net/minecraft/class_315 (java.lang.ClassNotFoundException: net/minecraft/class_315)
-[05:58:57] [main/WARN]: @Mixin target net.minecraft.class_315 was not found crawl.client.mixins.json:OptionsMixin from mod crawl
-[05:58:57] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
-[05:58:57] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found crawl.client.mixins.json:PlayerRendererMixin from mod crawl
-[05:58:57] [main/WARN]: Error loading class: dev/tr7zw/firstperson/LogicHandler (java.lang.ClassNotFoundException: dev/tr7zw/firstperson/LogicHandler)
-[05:58:57] [main/WARN]: @Mixin target dev.tr7zw.firstperson.LogicHandler was not found crawl.compat.fpm.mixins.json:LogicHandlerMixin from mod crawl
-[05:58:57] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
-[05:58:57] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
-[05:58:57] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[05:58:58] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[05:58:58] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[05:59:02] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[05:59:08] [main/INFO]: Vanilla bootstrap took 8918 milliseconds
-[05:59:08] [main/INFO]: Hello Fabric world!
-[05:59:08] [main/INFO]: Biolith for Fabric is initializing...
-[05:59:08] [main/INFO]: Loading Collective version 8.1.
-[05:59:09] [main/INFO]: Constructing common components for diagonalblocks:main
-[05:59:09] [main/INFO]: Constructing common components for diagonalfences:main
-[05:59:09] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 179ms
-[05:59:09] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 72ms
-[05:59:09] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 126ms
-[05:59:09] [Cicada thread 0/INFO]: 'Rip ballin catroversies'
-[05:59:10] [main/INFO]: Constructing common components for easyanvils:main
-[05:59:10] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
-[05:59:10] [main/INFO]: Constructing common components for easymagic:main
-[05:59:10] [main/INFO]: Dispatching loading event for config easymagic-common.toml
-[05:59:10] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
-[05:59:10] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
-[05:59:10] [main/INFO]: Initializing JamLib on Fabric
-[05:59:10] [main/INFO]: Initializing ServerSide Packet Registries
-[05:59:10] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[05:59:10] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
-[05:59:10] [main/INFO]: ---------------------------
-[05:59:10] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
-[05:59:10] [main/INFO]:  
-[05:59:10] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
-[05:59:10] [main/INFO]: Open Imaging is licensed under Apache-2.0.
-[05:59:10] [main/INFO]:  
-[05:59:10] [main/INFO]: JsonPath Copyright © 2017 Jayway.
-[05:59:10] [main/INFO]: JsonPath is licensed under Apache-2.0.
-[05:59:10] [main/INFO]:  
-[05:59:10] [main/INFO]: Json-smart Copyright © netplex.
-[05:59:10] [main/INFO]: Json-smart is licensed under Apache-2.0.
-[05:59:10] [main/INFO]:  
-[05:59:10] [main/INFO]: Exp4j Copyright © Frank Asseg.
-[05:59:10] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
-[05:59:10] [main/INFO]: ---------------------------
-[05:59:10] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
-[05:59:10] [main/INFO]: Initialize mod Library Ferret
-[05:59:10] [main/INFO]: Initialized mod Library Ferret
-[05:59:11] [main/INFO]: Constructing common components for puzzleslib:main
-[05:59:12] [main/INFO]: Updated config file at /workspaces/didactic-guacamole/servidor_minecraft/config/rightclickharvest.json5
-[05:59:12] [main/INFO]: Initializing Right Click Harvest on FABRIC
-[05:59:12] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[05:59:12] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
-[05:59:12] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
-[05:59:12] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
-[05:59:12] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[05:59:12] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[05:59:12] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[05:59:12] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[05:59:12] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[05:59:12] [main/INFO]: Enabling Terrestria's Biolith worldgen module.
-[05:59:13] [main/INFO]: [STDOUT]: Initialize WeaponMaster
-[05:59:13] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:59:14] [main/INFO]: Collected 0 data resources in 95.695839ms:
+[18:41:57] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/didactic-guacamole/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:41:57] [main/INFO]: Compatibility level set to JAVA_21
+[18:41:57] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:41:57] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:41:57] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:41:57] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:41:57] [main/WARN]: Reference map 'durabilitytooltip.mixins.refmap.json' for durabilitytooltip.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:41:57] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:41:57] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:41:57] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:41:57] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:41:57] [main/INFO]: Loaded configuration file for ModernFix 5.20.3+mc1.21.4: 54 options available, 0 override(s) found
+[18:41:57] [main/INFO]: Applying Nashorn fix
+[18:41:57] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:41:58] [main/WARN]: Error loading class: net/minecraft/class_458 (java.lang.ClassNotFoundException: net/minecraft/class_458)
+[18:41:58] [main/WARN]: @Mixin target net.minecraft.class_458 was not found crawl.client.mixins.json:ControlsScreenMixin from mod crawl
+[18:41:58] [main/WARN]: Error loading class: net/minecraft/class_572 (java.lang.ClassNotFoundException: net/minecraft/class_572)
+[18:41:58] [main/WARN]: @Mixin target net.minecraft.class_572 was not found crawl.client.mixins.json:HumanoidModelMixin from mod crawl
+[18:41:58] [main/WARN]: Error loading class: net/minecraft/class_10034 (java.lang.ClassNotFoundException: net/minecraft/class_10034)
+[18:41:58] [main/WARN]: @Mixin target net.minecraft.class_10034 was not found crawl.client.mixins.json:HumanoidRenderStateMixin from mod crawl
+[18:41:58] [main/WARN]: Error loading class: net/minecraft/class_746 (java.lang.ClassNotFoundException: net/minecraft/class_746)
+[18:41:58] [main/WARN]: @Mixin target net.minecraft.class_746 was not found crawl.client.mixins.json:LocalPlayerMixin from mod crawl
+[18:41:58] [main/WARN]: Error loading class: net/minecraft/class_315 (java.lang.ClassNotFoundException: net/minecraft/class_315)
+[18:41:58] [main/WARN]: @Mixin target net.minecraft.class_315 was not found crawl.client.mixins.json:OptionsMixin from mod crawl
+[18:41:58] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
+[18:41:58] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found crawl.client.mixins.json:PlayerRendererMixin from mod crawl
+[18:41:58] [main/WARN]: Error loading class: dev/tr7zw/firstperson/LogicHandler (java.lang.ClassNotFoundException: dev/tr7zw/firstperson/LogicHandler)
+[18:41:58] [main/WARN]: @Mixin target dev.tr7zw.firstperson.LogicHandler was not found crawl.compat.fpm.mixins.json:LogicHandlerMixin from mod crawl
+[18:41:58] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[18:41:58] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[18:41:58] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[18:41:59] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[18:41:59] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18:42:04] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[18:42:10] [main/INFO]: Vanilla bootstrap took 10462 milliseconds
+[18:42:11] [main/INFO]: Hello Fabric world!
+[18:42:11] [main/INFO]: Biolith for Fabric is initializing...
+[18:42:11] [main/INFO]: Loading Collective version 8.1.
+[18:42:11] [main/INFO]: Constructing common components for diagonalblocks:main
+[18:42:11] [main/INFO]: Constructing common components for diagonalfences:main
+[18:42:12] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 261ms
+[18:42:12] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 61ms
+[18:42:12] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 146ms
+[18:42:12] [Cicada thread 0/INFO]: 'i showed you my huge tater pls respond'
+[18:42:12] [main/INFO]: Constructing common components for easyanvils:main
+[18:42:12] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
+[18:42:12] [main/INFO]: Constructing common components for easymagic:main
+[18:42:12] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[18:42:13] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[18:42:13] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[18:42:13] [main/INFO]: Initializing JamLib on Fabric
+[18:42:13] [main/INFO]: Initializing ServerSide Packet Registries
+[18:42:13] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[18:42:13] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
+[18:42:13] [main/INFO]: ---------------------------
+[18:42:13] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[18:42:13] [main/INFO]:  
+[18:42:13] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
+[18:42:13] [main/INFO]: Open Imaging is licensed under Apache-2.0.
+[18:42:13] [main/INFO]:  
+[18:42:13] [main/INFO]: JsonPath Copyright © 2017 Jayway.
+[18:42:13] [main/INFO]: JsonPath is licensed under Apache-2.0.
+[18:42:13] [main/INFO]:  
+[18:42:13] [main/INFO]: Json-smart Copyright © netplex.
+[18:42:13] [main/INFO]: Json-smart is licensed under Apache-2.0.
+[18:42:13] [main/INFO]:  
+[18:42:13] [main/INFO]: Exp4j Copyright © Frank Asseg.
+[18:42:13] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[18:42:13] [main/INFO]: ---------------------------
+[18:42:13] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
+[18:42:13] [main/INFO]: Initialize mod Library Ferret
+[18:42:13] [main/INFO]: Initialized mod Library Ferret
+[18:42:14] [main/INFO]: Constructing common components for puzzleslib:main
+[18:42:14] [main/INFO]: Updated config file at /workspaces/didactic-guacamole/servidor_minecraft/config/rightclickharvest.json5
+[18:42:14] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[18:42:14] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[18:42:14] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[18:42:14] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[18:42:14] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[18:42:14] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[18:42:14] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[18:42:14] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[18:42:14] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[18:42:14] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[18:42:15] [main/INFO]: Enabling Terrestria's Biolith worldgen module.
+[18:42:15] [main/INFO]: [STDOUT]: Initialize WeaponMaster
+[18:42:16] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:42:16] [main/INFO]: Collected 0 data resources in 176.023091ms:
 
-[05:59:15] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[05:59:18] [main/INFO]: Loaded 2519 recipes
-[05:59:18] [main/INFO]: Loaded 2064 advancements
-[05:59:18] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 77 translation keys
-[05:59:19] [main/WARN]: Recipe packedup:diamond_from_silver can't be placed due to empty ingredients and will be ignored
-[05:59:19] [main/WARN]: Recipe packedup:silver_from_copper can't be placed due to empty ingredients and will be ignored
-[05:59:19] [main/WARN]: Recipe packedup:silver_from_iron can't be placed due to empty ingredients and will be ignored
-[05:59:19] [main/INFO]: Applied 510 biome modifications to 168 of 188 new biomes in 51.52 ms
-[05:59:19] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
-[05:59:19] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
-[05:59:19] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[05:59:19] [Server thread/INFO]: Loading properties
-[05:59:19] [Server thread/INFO]: Default game type: SURVIVAL
-[05:59:19] [Server thread/INFO]: Generating keypair
-[05:59:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:59:19] [Server thread/INFO]: Using epoll channel type
-[05:59:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:59:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:59:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:59:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:59:20] [Server thread/INFO]: Preparing level "world"
-[05:59:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:59:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:59:20] [Server thread/INFO]: Time elapsed: 407 ms
-[05:59:20] [Server thread/INFO]: Done (0.978s)! For help, type "help"
-[05:59:21] [Server thread/WARN]: Dedicated server took 36.464 seconds to load
-[05:59:21] [Server thread/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[05:59:21] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
-[05:59:21] [Server thread/INFO]: [REI] Plugins (3):
-[05:59:21] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[05:59:21] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[05:59:21] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[05:59:21] [Server thread/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[05:59:21] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 1.708 ms, totaling 77.54 ms.
-[05:59:21] [Server thread/INFO]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-[05:59:21] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
-[05:59:21] [Server thread/INFO]: [REI] Plugins (3):
-[05:59:21] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[05:59:21] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[05:59:21] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[05:59:21] [Server thread/INFO]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-[05:59:21] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 2.961 ms, totaling 100.5 ms.
-[05:59:21] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
-[05:59:21] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[05:59:21] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[05:59:21] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[05:59:21] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[05:59:21] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[05:59:21] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
-[05:59:21] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
-[05:59:21] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[05:59:21] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@bac7cad for service interface journeymap.api.services.ClientPlatformService
-[05:59:21] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@6c6b1db0 for service interface journeymap.api.services.CommonPlatformService
-[06:00:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[06:02:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[06:02:35] [Server thread/INFO]: }<--[HERE]
-[06:02:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[06:02:35] [Server thread/INFO]: <--[HERE]
-[06:02:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[06:02:35] [Server thread/INFO]: <--[HERE]
-[06:06:21] [Server thread/INFO]: SrLipord[/127.124.207.5:36629] logged in with entity id 87 at (-1320.5119723043515, 149.0, -13435.699999988079)
-[06:06:21] [Server thread/INFO]: SrLipord joined the game
-[06:06:22] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:06:49] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
-[06:09:14] [Server thread/INFO]: Luna_trix[/127.48.164.216:41221] logged in with entity id 838 at (56870.87937593814, 63.0, 1055828.5788064303)
-[06:09:14] [Server thread/INFO]: Luna_trix joined the game
-[06:09:15] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
-[06:10:12] [Server thread/INFO]: Luna_trix lost connection: Disconnected
-[06:10:12] [Server thread/INFO]: Luna_trix left the game
-[06:15:45] [Server thread/INFO]: SrLipord teleported to -695.5 72.0 160.5 minecraft:overworld
-[06:18:12] [Server thread/INFO]: [SrLipord: Set the time to 1000]
-[06:20:07] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-18.0.798-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-4.4.0+db5e668204-3d67c883c023e00c.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[06:27:04] [Server thread/INFO]: Luna_trix[/127.48.164.216:48409] logged in with entity id 4832 at (56834.446131657634, 74.0, 1055841.9075743733)
-[06:27:04] [Server thread/INFO]: Luna_trix joined the game
-[06:27:05] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
-[06:27:18] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
-[06:27:59] [Server thread/INFO]: [Luna_trix: Teleported SrLipord to Luna_trix]
-[06:28:20] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
-[06:28:37] [Server thread/INFO]: [Luna_trix: Teleported Luna_trix to SrLipord]
-[06:37:57] [Server thread/INFO]: SrLipord teleported to 52542.5 154.0 1056153.5 minecraft:overworld
-[06:38:08] [Server thread/INFO]: [SrLipord: Teleported Luna_trix to SrLipord]
-[06:43:10] [Server thread/INFO]: Luna_trix lost connection: Disconnected
-[06:43:10] [Server thread/INFO]: Luna_trix left the game
-[06:46:49] [Server thread/INFO]: Luna_trix[/127.48.164.216:53855] logged in with entity id 11155 at (52486.30312668812, 120.0, 1056205.5894504183)
-[06:46:49] [Server thread/INFO]: Luna_trix joined the game
-[06:46:50] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
-[06:47:53] [Server thread/INFO]: Luna_trix teleported to 56893.5 63.0 1055888.5 minecraft:overworld
-[06:48:57] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[06:48:57] [Server thread/INFO]: SrLipord left the game
-[06:49:01] [Server thread/INFO]: SrLipord[/127.124.207.5:34751] logged in with entity id 12966 at (52449.74169490105, 119.0, 1056188.338447076)
-[06:49:01] [Server thread/INFO]: SrLipord joined the game
-[06:49:02] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:50:42] [Server thread/INFO]: Gathorin[/127.47.238.219:43307] logged in with entity id 13942 at (49139.01726178984, 219.0, 1055409.300000012)
-[06:50:42] [Server thread/INFO]: Gathorin joined the game
-[06:50:43] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathorin accepted server config.
-[06:52:08] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
-[06:52:35] [Server thread/INFO]: SrLipord teleported to -1284.5 160.0 -13450.5 minecraft:overworld
-[06:53:04] [Server thread/INFO]: Gathorin teleported to 56833.5 74.0 1055842.5 minecraft:overworld
-[06:53:31] [Server thread/INFO]: Gathorin teleported to -293.5 -52.0 197.5 minecraft:overworld
-[06:53:33] [Server thread/INFO]: SrLipord teleported to -1322.5 149.0 -13435.5 minecraft:overworld
-[06:53:35] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
-[07:00:36] [Server thread/INFO]: SrLipord has made the advancement [Ender Chest+]
-[07:02:19] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-18.0.798-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-4.4.0+db5e668204-3d67c883c023e00c.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[07:03:41] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Luna_trix]
-[07:05:52] [Server thread/INFO]: [SrLipord: Played sound minecraft:entity.lightning_bolt.thunder to SrLipord]
-[07:05:56] [Server thread/INFO]: [SrLipord: Played sound minecraft:entity.lightning_bolt.thunder to SrLipord]
-[07:05:57] [Server thread/INFO]: [SrLipord: Played sound minecraft:entity.lightning_bolt.thunder to SrLipord]
-[07:05:57] [Server thread/INFO]: [SrLipord: Played sound minecraft:entity.lightning_bolt.thunder to SrLipord]
-[07:05:58] [Server thread/INFO]: [Not Secure] <Gathorin> el hiloooooooo
-[07:06:00] [Server thread/INFO]: [SrLipord: Played sound minecraft:entity.lightning_bolt.thunder to SrLipord]
-[07:06:06] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathorin]
-[07:07:05] [Server thread/INFO]: Gathorin has made the advancement [Packing Up!]
-[07:07:14] [Server thread/INFO]: [Luna_trix: Teleported Luna_trix to Gathorin]
-[07:10:08] [Server thread/INFO]: [SrLipord: Played sound minecraft:entity.creeper.primed to SrLipord]
-[07:10:28] [Server thread/INFO]: [SrLipord: Played sound minecraft:entity.creeper.primed to SrLipord]
-[07:10:28] [Server thread/INFO]: [SrLipord: Played sound minecraft:entity.creeper.primed to SrLipord]
-[07:10:29] [Server thread/INFO]: [SrLipord: Played sound minecraft:entity.creeper.primed to SrLipord]
-[07:10:32] [Server thread/INFO]: [SrLipord: Played sound minecraft:entity.creeper.primed to SrLipord]
-[07:10:32] [Server thread/INFO]: [SrLipord: Played sound minecraft:entity.creeper.primed to SrLipord]
-[07:11:02] [Server thread/INFO]: [Not Secure] <SrLipord> pucha
-[07:11:03] [Server thread/INFO]: [Not Secure] <SrLipord> cagamos
-[07:11:12] [Server thread/INFO]: [Not Secure] <Gathorin> JAJAJA
-[07:11:17] [Server thread/INFO]: [Not Secure] <Luna_trix> jajajjjjjjj
-[07:11:46] [Server thread/INFO]: [Not Secure] <SrLipord> me río para no llorar
-[07:16:03] [Server thread/INFO]: Gathorin has made the advancement [Take Aim]
-[07:17:09] [Server thread/INFO]: [Not Secure] <SrLipord> estuve
-[07:17:10] [Server thread/INFO]: [Not Secure] <SrLipord> a
-[07:17:11] [Server thread/INFO]: [Not Secure] <SrLipord> punto
-[07:17:12] [Server thread/INFO]: [Not Secure] <SrLipord> de decir
-[07:17:16] [Server thread/INFO]: Gathorin has made the advancement [Bigger is better]
-[07:17:23] [Server thread/INFO]: [Not Secure] <SrLipord> "jhoec, sabes cual fué la respuesta de ana?"
-[07:17:56] [Server thread/INFO]: Gathorin has made the advancement [Gucci backpack]
-[07:18:00] [Server thread/INFO]: Luna_trix lost connection: Disconnected
-[07:18:00] [Server thread/INFO]: Luna_trix left the game
-[07:19:04] [Server thread/INFO]: [Not Secure] <SrLipord> mayra me da a mi
-[07:19:10] [Server thread/INFO]: [Not Secure] <SrLipord> que no te voy a contestar la pregunta
-[07:19:10] [Server thread/INFO]: [Not Secure] <SrLipord> xd
-[07:19:13] [Server thread/INFO]: [Not Secure] <SrLipord> a
-[07:19:14] [Server thread/INFO]: [Not Secure] <SrLipord> se fue
-[07:19:30] [Server thread/INFO]: [Not Secure] <Gathorin> XDDDDD
-[07:19:44] [Server thread/INFO]: [Not Secure] <Gathorin> voya casa de victor a robarle vidrio
-[07:19:48] [Server thread/INFO]: Gathorin teleported to -10760.5 142.0 -2506.5 minecraft:overworld
-[07:19:49] [Server thread/INFO]: [Not Secure] <SrLipord> DALE
-[07:19:52] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathorin]
-[07:20:00] [Server thread/INFO]: [Not Secure] <Gathorin> lol
-[07:20:08] [Server thread/INFO]: [Not Secure] <Gathorin> y la entrada
-[07:20:31] [Server thread/INFO]: [Not Secure] <SrLipord> xD
-[07:20:33] [Server thread/INFO]: [Not Secure] <SrLipord> pero
-[07:20:35] [Server thread/INFO]: [Not Secure] <SrLipord> por donde te metiste?
-[07:21:22] [Server thread/INFO]: [Not Secure] <SrLipord> esta
-[07:21:23] [Server thread/INFO]: [Not Secure] <SrLipord> mirda
-[07:21:27] [Server thread/INFO]: [Not Secure] <SrLipord> está simétrica
-[07:21:29] [Server thread/INFO]: [Not Secure] <SrLipord> A
-[07:21:32] [Server thread/INFO]: [Not Secure] <SrLipord> ASIMETRICA
-[07:21:37] [Server thread/INFO]: [Not Secure] <Gathorin> JAJAJA
-[07:21:47] [Server thread/INFO]: [Not Secure] <Gathorin> su casa es de arena y no tiene vidrio
-[07:22:01] [Server thread/INFO]: [Not Secure] <Gathorin> bueno lipord
-[07:22:04] [Server thread/INFO]: [Not Secure] <Gathorin> toco agarrar arena
-[07:22:07] [Server thread/INFO]: [Not Secure] <SrLipord> si
-[07:22:10] [Server thread/INFO]: [Not Secure] <SrLipord> tenemos un desiert
-[07:22:11] [Server thread/INFO]: [Not Secure] <SrLipord> xD
-[07:22:16] [Server thread/INFO]: [Not Secure] <SrLipord> JASJJKSAJKSJKSJKJKSJAKJKSKKSA
-[07:22:53] [Server thread/INFO]: [Not Secure] <SrLipord> VERGA
-[07:22:55] [Server thread/INFO]: [Not Secure] <SrLipord> HABLAN DE TODO
-[07:22:58] [Server thread/INFO]: [Not Secure] <SrLipord> AL MISMO TIEMPO
-[07:23:03] [Server thread/INFO]: [Not Secure] <SrLipord> Y TU HACIENDO ETA MAMADA
-[07:27:14] [Server thread/INFO]: Gathorin has made the advancement [Gotta have that bling]
-[07:32:24] [Server thread/INFO]: [Not Secure] <SrLipord> nono
-[07:32:26] [Server thread/INFO]: [Not Secure] <SrLipord> estamos hablando0
-[07:32:29] [Server thread/INFO]: [Not Secure] <Gathorin> wtf
-[07:32:33] [Server thread/INFO]: [Not Secure] <SrLipord> ven
-[07:32:33] [Server thread/INFO]: [Not Secure] <SrLipord> tp
-[07:32:40] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
-[07:33:21] [Server thread/INFO]: [Not Secure] <Gathorin> reinicio la pc
-[07:33:25] [Server thread/INFO]: [Not Secure] <SrLipord> dale
-[07:34:52] [Server thread/INFO]: [SrLipord: Teleported Gathorin to SrLipord]
-[07:35:45] [Server thread/INFO]: [Not Secure] <SrLipord> tines el
-[07:35:47] [Server thread/INFO]: [Not Secure] <SrLipord> mc
-[07:35:49] [Server thread/INFO]: [Not Secure] <SrLipord> muted?
-[07:35:53] [Server thread/INFO]: [Not Secure] <Gathorin> no
-[07:35:55] [Server thread/INFO]: [Not Secure] <SrLipord> si
-[07:36:00] [Server thread/INFO]: [Not Secure] <SrLipord> el minecrafT*
-[07:36:04] [Server thread/INFO]: [Not Secure] <Gathorin> ahh ok
-[07:36:06] [Server thread/INFO]: [Not Secure] <Gathorin> no
-[07:36:07] [Server thread/INFO]: [Not Secure] <SrLipord> oyes la música?
-[07:36:15] [Server thread/INFO]: [Not Secure] <Gathorin> si
-[07:36:17] [Server thread/INFO]: [Not Secure] <Gathorin> hermano
-[07:36:19] [Server thread/INFO]: [Not Secure] <Gathorin> top
-[07:36:36] [Server thread/INFO]: [Not Secure] <Gathorin> amigo como lo consiguio??????????
-[07:36:47] [Server thread/INFO]: [Not Secure] <SrLipord> chamber
-[07:36:50] [Server thread/INFO]: [Not Secure] <SrLipord> me dan ganas de matarlo
-[07:36:59] [Server thread/INFO]: [Not Secure] <SrLipord> los dos discos
-[07:37:07] [Server thread/INFO]: [Not Secure] <Gathorin> madito theone
-[07:37:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[07:37:49] [Server thread/INFO]: <--[HERE]
-[07:37:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[07:37:50] [Server thread/INFO]: <--[HERE]
-[07:40:06] [Server thread/INFO]: [Not Secure] <SrLipord> a bueno
-[07:40:11] [Server thread/INFO]: [Not Secure] <SrLipord> ta duro
-[07:40:16] [Server thread/INFO]: [Not Secure] <SrLipord> Escuchame
-[07:40:19] [Server thread/INFO]: [Not Secure] <SrLipord> es obsesiva
-[07:40:24] [Server thread/INFO]: [Not Secure] <SrLipord> es mongólica con harry potter
-[07:40:57] [Server thread/INFO]: [Not Secure] <SrLipord> se pone
-[07:41:00] [Server thread/INFO]: [Not Secure] <SrLipord> ten en cuenta
-[07:41:00] [Server thread/INFO]: [Not Secure] <SrLipord> a
-[07:41:03] [Server thread/INFO]: [Not Secure] <Gathorin> JAJAJJAJA
-[07:41:03] [Server thread/INFO]: [Not Secure] <SrLipord> repetir
-[07:41:08] [Server thread/INFO]: [Not Secure] <SrLipord> los diálogos
-[07:41:12] [Server thread/INFO]: [Not Secure] <SrLipord> en plena película
-[07:41:14] [Server thread/INFO]: [Not Secure] <SrLipord> a tiempo
-[07:41:17] [Server thread/INFO]: [Not Secure] <SrLipord> y en l mismo tono de voz
-[07:41:21] [Server thread/INFO]: [Not Secure] <SrLipord> e.e
-[07:41:32] [Server thread/INFO]: [Not Secure] <SrLipord> todos
-[07:41:35] [Server thread/INFO]: [Not Secure] <SrLipord> los diálogos
-[07:41:36] [Server thread/INFO]: [Not Secure] <SrLipord> TODOS
-[07:41:43] [Server thread/INFO]: [Not Secure] <SrLipord> la película dura 2 horas y media
-[07:42:04] [Server thread/INFO]: [Not Secure] <SrLipord> ta vacío
-[07:42:05] [Server thread/INFO]: [Not Secure] <SrLipord> xd
-[07:48:06] [Server thread/INFO]: Gathorin teleported to -293.5 -52.0 197.5 minecraft:overworld
-[07:51:03] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathorin]
-[07:51:13] [Server thread/INFO]: SrLipord teleported to -1284.5 160.0 -13450.5 minecraft:overworld
-[07:52:40] [Server thread/INFO]: [Not Secure] <SrLipord> diablo loco
-[07:53:55] [Server thread/INFO]: [Not Secure] <SrLipord> E
-[07:53:57] [Server thread/INFO]: [Not Secure] <Gathorin> E
-[07:59:52] [Server thread/INFO]: [SrLipord: Teleported Gathorin to SrLipord]
-[08:00:10] [Server thread/INFO]: [SrLipord: Set the time to 0]
-[08:02:22] [Server thread/INFO]: [Not Secure] <SrLipord> la sociedad hoy en día está rota
-[08:03:01] [Server thread/INFO]: [Not Secure] <Gathorin> muy cierto
-[08:04:22] [Server thread/INFO]: [Not Secure] <SrLipord> no
-[08:04:26] [Server thread/INFO]: [Not Secure] <SrLipord> de la reina victoria
-[08:04:58] [Server thread/INFO]: [Not Secure] <SrLipord> las bugueó a las dos
-[08:04:58] [Server thread/INFO]: [Not Secure] <SrLipord> xD
-[08:05:02] [Server thread/INFO]: [Not Secure] <Gathorin> XDDDD
-[08:06:19] [Server thread/INFO]: [SrLipord: Set own game mode to Spectator Mode]
-[08:06:44] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[08:10:40] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
-[08:11:12] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathorin]
-[08:11:31] [Server thread/INFO]: [SrLipord: Set the time to 0]
-[08:12:59] [Server thread/INFO]: SrLipord teleported to -12270.5 -5.0 -1809.5 minecraft:overworld
-[08:13:49] [Server thread/INFO]: [SrLipord: Set own game mode to Spectator Mode]
-[08:13:54] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[08:14:27] [Server thread/INFO]: [SrLipord: Set own game mode to Spectator Mode]
-[08:14:29] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[08:14:51] [Server thread/INFO]: [SrLipord: Set own game mode to Spectator Mode]
-[08:14:55] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[08:15:42] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathorin]
-[08:16:56] [Server thread/INFO]: [Not Secure] <SrLipord> XDDDDDDDDDDDDDDDDDDDD
-[08:17:03] [Server thread/INFO]: [Not Secure] <Gathorin> XDDDDDDDD
-[08:17:19] [Server thread/INFO]: [Not Secure] <SrLipord> presente
-[08:17:23] [Server thread/INFO]: [Not Secure] <SrLipord> EXPELIERIMUS
-[08:20:02] [Server thread/INFO]: [Not Secure] <SrLipord> EXPELIERIMUS
-[08:20:04] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathorin]
-[08:20:12] [Server thread/INFO]: SrLipord teleported to -1322.5 149.0 -13435.5 minecraft:overworld
-[08:20:16] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathorin]
-[08:21:17] [Server thread/INFO]: [Not Secure] <SrLipord> xD
-[08:21:23] [Server thread/INFO]: [SrLipord: Set the time to 0]
-[08:22:03] [Server thread/INFO]: [Not Secure] <SrLipord> escuchame
-[08:22:15] [Server thread/INFO]: [Not Secure] <SrLipord> hagamos cosas productivas, ayudame a talar abetos
-[08:22:19] [Server thread/INFO]: SrLipord teleported to 3321.5 83.0 -483.5 minecraft:overworld
-[08:22:23] [Server thread/INFO]: [Gathorin: Teleported Gathorin to SrLipord]
-[08:22:43] [Server thread/INFO]: Gathorin teleported to -411.0 82.0 -131.0 minecraft:overworld
-[08:23:26] [Server thread/INFO]: [Not Secure] <SrLipord> XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
-[08:23:33] [Server thread/INFO]: Gathorin teleported to 52147.0 69.0 1057190.0 minecraft:overworld
-[08:23:38] [Server thread/INFO]: [Not Secure] <Gathorin> AJAJJAJAJA
-[08:23:52] [Server thread/INFO]: [Gathorin: Teleported Gathorin to SrLipord]
-[08:24:31] [Server thread/INFO]: [Not Secure] <Gathorin> a q se referia?
-[08:24:38] [Server thread/INFO]: [Not Secure] <SrLipord> no s wbon
-[08:26:25] [Server thread/INFO]: [Not Secure] <SrLipord> ahi ta
-[08:26:32] [Server thread/INFO]: [Not Secure] <SrLipord> y es la punta del iceberg
-[08:27:55] [Server thread/INFO]: Villager class_1646['Unemployed'/43294, l='ServerLevel[world]', x=3014.28, y=85.00, z=-400.63] died, message: 'Unemployed suffocated in a wall'
-[08:27:56] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathorin]
-[08:31:57] [Server thread/INFO]: [SrLipord: Set the time to 0]
-[08:33:03] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathorin]
-[08:34:13] [Server thread/INFO]: [Not Secure] <SrLipord> naweebona
-[08:34:20] [Server thread/INFO]: [Not Secure] <Gathorin> ahora tiene poderes
-[08:37:09] [Server thread/INFO]: SrLipord fell from a high place
-[08:37:10] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[08:37:14] [Server thread/INFO]: SrLipord teleported to 3008.5 95.0 -531.5 minecraft:overworld
-[08:40:16] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathorin]
-[08:40:35] [Server thread/WARN]: SrLipord moved wrongly!
-[08:41:20] [Server thread/INFO]: [SrLipord: Set the weather to rain & thunder]
-[08:42:14] [Server thread/INFO]: Luna_trix[/127.48.164.216:58151] logged in with entity id 51181 at (-292.30000001192093, -52.0, 196.46916107467166)
-[08:42:14] [Server thread/INFO]: Luna_trix joined the game
-[08:42:15] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
-[08:42:29] [Server thread/INFO]: [Luna_trix: Teleported Luna_trix to Gathorin]
-[08:42:34] [Server thread/INFO]: SrLipord was blown up by Creeper
-[08:42:37] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[08:42:40] [Server thread/INFO]: SrLipord teleported to 3082.5 80.0 -552.5 minecraft:overworld
-[08:43:38] [Server thread/INFO]: Luna_trix teleported to 56847.5 50.0 1055851.5 minecraft:overworld
-[08:44:14] [Server thread/INFO]: [Luna_trix: Teleported Luna_trix to Gathorin]
-[08:45:15] [Server thread/INFO]: Gathorin was shot by Skeleton
-[08:45:16] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathorin accepted server config.
-[08:45:27] [Server thread/INFO]: Gathorin teleported to 3059.5 80.0 -522.5 minecraft:overworld
-[08:45:35] [Server thread/INFO]: SrLipord was shot by Skeleton
-[08:45:36] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[08:45:39] [Server thread/INFO]: SrLipord teleported to 3061.5 81.0 -510.5 minecraft:overworld
-[08:47:23] [Server thread/INFO]: SrLipord was blown up by Creeper
-[08:47:24] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[08:47:27] [Server thread/INFO]: SrLipord teleported to 3005.5 81.0 -506.5 minecraft:overworld
-[08:48:45] [Server thread/INFO]: Luna_trix lost connection: Disconnected
-[08:48:45] [Server thread/INFO]: Luna_trix left the game
-[08:48:50] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[08:48:50] [Server thread/INFO]: SrLipord left the game
-[08:48:56] [Server thread/INFO]: Stopping the server
-[08:48:56] [Server thread/INFO]: Stopping server
-[08:48:56] [Server thread/INFO]: Saving players
-[08:48:56] [Server thread/INFO]: Gathorin lost connection: Server closed
-[08:48:56] [Server thread/INFO]: Gathorin left the game
-[08:48:56] [Server thread/INFO]: Saving worlds
-[08:48:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:48:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[08:48:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[08:48:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:48:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:48:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:48:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[08:48:57] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
-[08:48:57] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
+[18:42:18] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[18:42:21] [main/INFO]: Loaded 2519 recipes
+[18:42:21] [main/INFO]: Loaded 2064 advancements
+[18:42:21] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 77 translation keys
+[18:42:22] [main/WARN]: Recipe packedup:diamond_from_silver can't be placed due to empty ingredients and will be ignored
+[18:42:22] [main/WARN]: Recipe packedup:silver_from_copper can't be placed due to empty ingredients and will be ignored
+[18:42:22] [main/WARN]: Recipe packedup:silver_from_iron can't be placed due to empty ingredients and will be ignored
+[18:42:22] [main/INFO]: Applied 510 biome modifications to 168 of 188 new biomes in 40.28 ms
+[18:42:22] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
+[18:42:22] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
+[18:42:22] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[18:42:22] [Server thread/INFO]: Loading properties
+[18:42:22] [Server thread/INFO]: Default game type: SURVIVAL
+[18:42:22] [Server thread/INFO]: Generating keypair
+[18:42:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:42:22] [Server thread/INFO]: Using epoll channel type
+[18:42:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:42:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:42:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:42:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:42:22] [Server thread/INFO]: Preparing level "world"
+[18:42:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:42:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:42:24] [Worker-Main-1/INFO]: Preparing spawn area: 57%
+[18:42:24] [Server thread/INFO]: Time elapsed: 546 ms
+[18:42:24] [Server thread/INFO]: Done (1.273s)! For help, type "help"
+[18:42:24] [Server thread/WARN]: Dedicated server took 29.738 seconds to load
+[18:42:24] [Server thread/INFO]: [REI] ****************************************
+[18:42:24] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
+[18:42:24] [Server thread/INFO]: [REI] Plugins (3):
+[18:42:24] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[18:42:24] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[18:42:24] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[18:42:24] [Server thread/INFO]: [REI] ****************************************
+[18:42:24] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 2.217 ms, totaling 89.80 ms.
+[18:42:24] [Server thread/INFO]: [REI] ########################################
+[18:42:24] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
+[18:42:24] [Server thread/INFO]: [REI] Plugins (3):
+[18:42:24] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[18:42:24] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[18:42:24] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[18:42:24] [Server thread/INFO]: [REI] ########################################
+[18:42:24] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 944.0 μs, totaling 111.0 ms.
+[18:42:24] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
+[18:42:24] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[18:42:24] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[18:42:24] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[18:42:24] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[18:42:24] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[18:42:24] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
+[18:42:24] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[18:42:24] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[18:42:24] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@7a04cd6f for service interface journeymap.api.services.ClientPlatformService
+[18:42:24] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@22cb88d4 for service interface journeymap.api.services.CommonPlatformService
+[18:43:24] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:44:45] [Server thread/INFO]: SrLipord[/127.124.207.5:58041] logged in with entity id 87 at (3004.5447186550123, 100.70485245598236, -506.2229796300582)
+[18:44:45] [Server thread/INFO]: SrLipord joined the game
+[18:44:47] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[18:45:30] [Server thread/INFO]: SrLipord teleported to -12270.5 -5.0 -1809.5 minecraft:overworld
+[18:48:45] [Server thread/INFO]: TheDarielito[/127.148.126.171:59717] logged in with entity id 1820 at (-1038.2060171526032, 80.0, -780.0938739066056)
+[18:48:45] [Server thread/INFO]: TheDarielito joined the game
+[18:48:48] [Server thread/INFO]: [do_a_barrel_roll] Client of TheDarielito accepted server config.
+[18:57:26] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
+[18:58:35] [Server thread/INFO]: TheDarielito lost connection: Disconnected
+[18:58:35] [Server thread/INFO]: TheDarielito left the game
