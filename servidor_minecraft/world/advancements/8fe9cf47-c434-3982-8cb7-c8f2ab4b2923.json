@@ -1374,6 +1374,7 @@
       "bread": "2025-04-14 22:45:36 +0000",
       "rotten_flesh": "2025-04-14 02:09:10 +0000",
       "cooked_mutton": "2025-04-14 01:31:13 +0000",
+      "glow_berries": "2025-04-19 00:45:36 +0000",
       "salmon": "2025-04-15 01:25:40 +0000",
       "cooked_beef": "2025-04-14 00:43:55 +0000",
       "baked_potato": "2025-04-14 01:18:22 +0000",
@@ -3617,6 +3618,48 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-04-19 00:05:16 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
+    "criteria": {
+      "has_waystone": "2025-04-19 00:39:58 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
+    "criteria": {
+      "has_waystone": "2025-04-19 00:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-19 00:31:48 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/building_blocks/mossy_volcanic_rock_bricks": {
+    "criteria": {
+      "has_mossy_ingredients": "2025-04-19 00:31:48 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/building_blocks/mossy_volcanic_rock_cobblestone": {
+    "criteria": {
+      "has_mossy_ingredients": "2025-04-19 00:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-04-19 00:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-19 00:31:48 +0000"
     },
     "done": true
   },
