@@ -1514,3 +1514,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [03:27:53] [Server thread/INFO]: xXTHEONEXx lost connection: Disconnected
 [03:27:53] [Server thread/INFO]: xXTHEONEXx left the game
 [03:40:27] [Server thread/INFO]: Joul3r has made the advancement [Cover Me with Diamonds]
+[04:01:45] [Server thread/INFO]: Joul3r lost connection: Disconnected
+[04:01:45] [Server thread/INFO]: Joul3r left the game
+[04:02:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
