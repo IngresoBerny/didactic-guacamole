@@ -847,6 +847,7 @@
       "minecraft:spider": "2025-04-14 00:42:55 +0000",
       "minecraft:zombie": "2025-04-14 00:25:54 +0000",
       "minecraft:drowned": "2025-04-14 01:32:52 +0000",
+      "minecraft:zombie_villager": "2025-04-19 00:08:22 +0000",
       "minecraft:husk": "2025-04-15 21:01:35 +0000"
     },
     "done": false
@@ -3535,6 +3536,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/resin_brick": {
+    "criteria": {
+      "has_resin_clump": "2025-04-18 23:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_block": {
+    "criteria": {
+      "has_resin_clump": "2025-04-18 23:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/pale_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-19 00:01:03 +0000"
@@ -3547,12 +3560,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/resin_brick": {
-    "criteria": {
-      "has_resin_clump": "2025-04-18 23:58:01 +0000"
-    },
-    "done": true
-  },
   "mcwpaths:recipes/pale_oak": {
     "criteria": {
       "has_wood": "2025-04-19 00:01:03 +0000"
@@ -3562,12 +3569,6 @@
   "minecraft:recipes/building_blocks/pale_oak_slab": {
     "criteria": {
       "has_planks": "2025-04-19 00:01:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/resin_block": {
-    "criteria": {
-      "has_resin_clump": "2025-04-18 23:58:01 +0000"
     },
     "done": true
   },

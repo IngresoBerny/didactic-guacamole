@@ -56,13 +56,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-04-16 03:05:19 +0000",
-      "minecraft:ocean": "2025-04-16 03:41:27 +0000",
+      "minecraft:dark_forest": "2025-04-19 00:13:41 +0000",
       "minecraft:deep_ocean": "2025-04-17 22:13:12 +0000",
       "minecraft:river": "2025-04-16 03:08:55 +0000",
       "minecraft:lukewarm_ocean": "2025-04-17 22:20:23 +0000",
-      "minecraft:meadow": "2025-04-19 00:06:30 +0000",
       "minecraft:lush_caves": "2025-04-17 03:00:20 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-19 00:17:35 +0000",
+      "minecraft:ocean": "2025-04-16 03:41:27 +0000",
+      "minecraft:sunflower_plains": "2025-04-19 00:25:49 +0000",
+      "minecraft:meadow": "2025-04-19 00:06:30 +0000",
       "minecraft:plains": "2025-04-16 03:10:29 +0000",
+      "minecraft:jagged_peaks": "2025-04-19 00:07:27 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-18 23:58:59 +0000"
     },
     "done": false
@@ -3259,6 +3263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2025-04-19 00:08:46 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
     "criteria": {
       "has_waystone": "2025-04-18 23:53:15 +0000"
@@ -3394,6 +3404,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-04-18 23:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2025-04-19 00:08:46 +0000"
     },
     "done": true
   },

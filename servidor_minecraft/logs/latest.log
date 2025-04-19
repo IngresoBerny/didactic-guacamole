@@ -27,3 +27,186 @@
 [00:10:22] [Server thread/INFO]: [do_a_barrel_roll] Client of Joul3r accepted server config.
 [00:10:25] [Server thread/INFO]: [Not Secure] <SrLipord> OSTIA
 [00:10:28] [Server thread/INFO]: [Not Secure] <ItsLiloRD> o/
+[00:10:35] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> quien e ese?
+[00:10:40] [Server thread/INFO]: [Not Secure] <ItsLiloRD> yo
+[00:10:42] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> A
+[00:10:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[00:11:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6661ms or 133 ticks behind
+[00:11:12] [Server thread/INFO]: xXTHEONEXx teleported to -12269.5 -9.0 -1806.5 minecraft:overworld
+[00:11:17] [Server thread/INFO]: [Not Secure] <KHPL707> liport
+[00:11:24] [Server thread/INFO]: [Not Secure] <KHPL707> tiene hierro¿
+[00:11:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3267ms or 65 ticks behind
+[00:11:36] [Server thread/INFO]: [Not Secure] <KHPL707> regaleme tantito a esta persona necesitada
+[00:11:50] [Server thread/INFO]: xXTHEONEXx teleported to -2287.5 160.0 -11887.5 minecraft:overworld
+[00:12:22] [Server thread/INFO]: [Not Secure] <KHPL707> PAN DIME SI QUIERES Q VAYA A AYUDARTE
+[00:12:27] [Server thread/INFO]: [Not Secure] <KHPL707> YO ANDO ILUMINANDO MI ISLA
+[00:12:33] [Server thread/INFO]: [Not Secure] <Joul3r> nah
+[00:12:37] [Server thread/INFO]: [Not Secure] <ItsLiloRD> xd
+[00:12:58] [Server thread/INFO]: [Not Secure] <KHPL707> otra ves ando con lag
+[00:13:14] [Server thread/INFO]: [Not Secure] <ItsLiloRD> cuanto de hierro necesitas
+[00:13:20] [Server thread/INFO]: [Not Secure] <KHPL707> 64
+[00:13:27] [Server thread/INFO]: [Not Secure] <KHPL707> mucho
+[00:13:31] [Server thread/INFO]: [Not Secure] <ItsLiloRD> ok
+[00:13:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[00:13:40] [Server thread/INFO]: [ItsLiloRD: Teleported ItsLiloRD to KHPL707]
+[00:13:47] [Server thread/INFO]: [Not Secure] <ItsLiloRD> atras
+[00:13:57] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-18.0.798-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-4.4.0+db5e668204-3d67c883c023e00c.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:14:07] [Server thread/INFO]: ItsLiloRD teleported to -3131.0 134.0 -2009.0 minecraft:overworld
+[00:14:15] [Server thread/INFO]: [Not Secure] <KHPL707> GRACIAS DESCONOCIDO
+[00:14:55] [Server thread/INFO]: Joul3r has made the advancement [Stone Age]
+[00:15:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:15:55] [Server thread/INFO]: [SrLipord: Teleported SrLipord to xXTHEONEXx]
+[00:16:31] [Server thread/INFO]: SrLipord teleported to -1284.5 160.0 -13450.5 minecraft:overworld
+[00:16:34] [Server thread/WARN]: ItsLiloRD moved too quickly! 10.044873117923999,1.2491870787446828,-1.5090612514886743
+[00:16:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
+[00:17:31] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
+[00:17:35] [Server thread/INFO]: [Not Secure] <SrLipord> zzzzzzzzzzzzzzz
+[00:17:42] [Server thread/INFO]: [Not Secure] <KHPL707> ILUMINAR MUCHO
+[00:17:45] [Server thread/INFO]: Villager class_1646['Unemployed'/214348, l='ServerLevel[world]', x=-2914.50, y=157.39, z=-2718.30] died, message: 'Unemployed froze to death'
+[00:17:58] [Server thread/INFO]: Villager class_1646['Unemployed'/214347, l='ServerLevel[world]', x=-2915.30, y=157.00, z=-2716.45] died, message: 'Unemployed froze to death'
+[00:18:01] [Server thread/INFO]: [Not Secure] <ItsLiloRD> zzzzzz
+[00:18:09] [Server thread/INFO]: xXTHEONEXx lost connection: Disconnected
+[00:18:09] [Server thread/INFO]: xXTHEONEXx left the game
+[00:18:10] [Server thread/INFO]: SrLipord teleported to -1284.5 160.0 -13450.5 minecraft:overworld
+[00:18:16] [Server thread/INFO]: Villager class_1646['Unemployed'/214415, l='ServerLevel[world]', x=-2915.15, y=157.63, z=-2716.50] died, message: 'Unemployed froze to death'
+[00:18:34] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
+[00:18:40] [Server thread/INFO]: Villager class_1646['Unemployed'/214417, l='ServerLevel[world]', x=-2915.30, y=157.00, z=-2717.70] died, message: 'Unemployed froze to death'
+[00:18:43] [Server thread/INFO]: [SrLipord: Set own game mode to Spectator Mode]
+[00:18:46] [Server thread/INFO]: [Not Secure] <ItsLiloRD> zzzz
+[00:18:46] [Server thread/INFO]: [Not Secure] <ItsLiloRD> z
+[00:18:47] [Server thread/INFO]: [Not Secure] <ItsLiloRD> z
+[00:18:47] [Server thread/INFO]: [Not Secure] <ItsLiloRD> z
+[00:18:47] [Server thread/INFO]: [Not Secure] <ItsLiloRD> z
+[00:18:47] [Server thread/INFO]: [Not Secure] <ItsLiloRD> z
+[00:18:47] [Server thread/INFO]: [Not Secure] <ItsLiloRD> z
+[00:18:47] [Server thread/INFO]: [Not Secure] <ItsLiloRD> z
+[00:18:48] [Server thread/INFO]: [Not Secure] <ItsLiloRD> z
+[00:18:48] [Server thread/INFO]: [Not Secure] <ItsLiloRD> zzzz
+[00:18:50] [Server thread/INFO]: [Not Secure] <SrLipord> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[00:18:58] [Server thread/INFO]: KHPL707 lost connection: Disconnected
+[00:18:58] [Server thread/INFO]: KHPL707 left the game
+[00:19:40] [Server thread/INFO]: KHPL707[/127.150.242.19:38989] logged in with entity id 217014 at (3472.6777946640304, 114.0, -74.01963057268759)
+[00:19:40] [Server thread/INFO]: KHPL707 joined the game
+[00:19:41] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
+[00:19:43] [Server thread/INFO]: xXTHEONEXx[/127.193.56.197:39457] logged in with entity id 217203 at (-2272.197294655882, 157.0, -11888.699999988079)
+[00:19:43] [Server thread/INFO]: xXTHEONEXx joined the game
+[00:19:43] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[00:19:47] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> ya?
+[00:19:47] [Server thread/INFO]: [Not Secure] <SrLipord> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[00:19:50] [Server thread/INFO]: [Not Secure] <SrLipord> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[00:19:51] [Server thread/INFO]: xXTHEONEXx lost connection: Disconnected
+[00:19:51] [Server thread/INFO]: xXTHEONEXx left the game
+[00:19:52] [Server thread/INFO]: [Not Secure] <SrLipord> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[00:19:55] [Server thread/INFO]: KHPL707 teleported to 482.5 72.0 -920.5 minecraft:overworld
+[00:20:12] [Server thread/INFO]: [Not Secure] <Gathorin> Joul3r
+[00:20:15] [Server thread/INFO]: [Not Secure] <KHPL707> ZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[00:20:18] [Server thread/INFO]: [Not Secure] <KHPL707> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[00:20:18] [Server thread/INFO]: [Not Secure] <SrLipord> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[00:20:22] [Server thread/INFO]: [Not Secure] <Joul3r> no tengo cama xd
+[00:20:22] [Server thread/INFO]: [Not Secure] <KHPL707> PAN A DORMIR
+[00:20:23] [Server thread/INFO]: Joul3r lost connection: Disconnected
+[00:20:23] [Server thread/INFO]: Joul3r left the game
+[00:20:45] [Server thread/INFO]: Joul3r[/127.142.209.193:33067] logged in with entity id 218813 at (-679.4415877636657, 68.0, 146.86857637359577)
+[00:20:45] [Server thread/INFO]: Joul3r joined the game
+[00:20:45] [Server thread/INFO]: [do_a_barrel_roll] Client of Joul3r accepted server config.
+[00:20:47] [Server thread/INFO]: [SrLipord: Made Joul3r a server operator]
+[00:20:47] [Server thread/INFO]: [do_a_barrel_roll] Client of Joul3r accepted server config.
+[00:20:52] [Server thread/INFO]: Joul3r has made the advancement [Getting an Upgrade]
+[00:21:15] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
+[00:21:38] [Server thread/INFO]: xXTHEONEXx[/127.193.56.197:37183] logged in with entity id 219719 at (-2276.173927881007, 157.0, -11887.29682550835)
+[00:21:38] [Server thread/INFO]: xXTHEONEXx joined the game
+[00:21:39] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[00:21:42] [Server thread/WARN]: ItsLiloRD moved too quickly! -1.2206231661934908,1.4235592945430398,-9.953128868888598
+[00:21:42] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> a
+[00:21:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3616ms or 72 ticks behind
+[00:21:54] [Server thread/WARN]: Joul3r moved too quickly! 1.1918551487455034,-0.5800000131130219,10.30101715077106
+[00:22:16] [Server thread/INFO]: [Not Secure] <KHPL707> YA ME ASE FALTA MINAR
+[00:22:20] [Server thread/INFO]: [SrLipord: Played sound minecraft:music_disc.creator to SrLipord]
+[00:22:30] [Server thread/INFO]: [Not Secure] <KHPL707> QUIEN ANDE MINANDO DIGAME PARA ACOMPAÑARLO
+[00:22:47] [Server thread/INFO]: KHPL707 teleported to 3491.5 116.0 -67.5 minecraft:overworld
+[00:23:10] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[00:23:10] [Server thread/INFO]: SrLipord left the game
+[00:23:15] [Server thread/INFO]: SrLipord[/127.124.207.5:40443] logged in with entity id 222043 at (-2276.85830353896, 157.0, -11885.756507644159)
+[00:23:15] [Server thread/INFO]: SrLipord joined the game
+[00:23:16] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[00:23:19] [Server thread/INFO]: [SrLipord: Played sound minecraft:music_disc.creator_music_box to SrLipord]
+[00:23:54] [Server thread/INFO]: [SrLipord: Played sound minecraft:music_disc.creator_music_box to 6 players]
+[00:24:39] [Server thread/INFO]: Joul3r lost connection: Disconnected
+[00:24:39] [Server thread/INFO]: Joul3r left the game
+[00:25:13] [Server thread/INFO]: [SrLipord: Played sound minecraft:music_disc.creator to 5 players]
+[00:26:02] [Server thread/INFO]: xXTHEONEXx teleported to -12268.5 -5.0 -1811.5 minecraft:overworld
+[00:26:53] [Server thread/INFO]: [Not Secure] <SrLipord> rolón
+[00:26:55] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> eli
+[00:26:58] [Server thread/INFO]: [Not Secure] <ItsLiloRD> diga
+[00:27:00] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> dice la morena
+[00:27:04] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> que demagoga
+[00:27:07] [Server thread/INFO]: [Not Secure] <ItsLiloRD> a
+[00:27:18] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> demgagogo que diga
+[00:27:21] [Server thread/INFO]: [Not Secure] <ItsLiloRD> Dile que es una FARISEA
+[00:27:29] [Server thread/INFO]: [Not Secure] <SrLipord> JAJAJAJAJA
+[00:27:32] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> Dice la dama
+[00:27:39] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> Amablemente
+[00:27:46] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> que por atras
+[00:27:47] [Server thread/INFO]: [Not Secure] <SrLipord> Exclamó la Donceella
+[00:27:49] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> te metas
+[00:27:52] [Server thread/INFO]: [Not Secure] <SrLipord> Sor-Rita
+[00:27:55] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> ya sabes que
+[00:27:59] [Server thread/INFO]: [Not Secure] <ItsLiloRD> xd
+[00:28:19] [Server thread/INFO]: [Not Secure] <ItsLiloRD> dile que afloje ya
+[00:28:22] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> GATHO
+[00:28:30] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> aca esta la gatha rompe hogares
+[00:28:32] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> dile algo
+[00:28:42] [Server thread/INFO]: [Not Secure] <KHPL707> x2
+[00:28:49] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> ajajajajajaja
+[00:28:53] [Server thread/INFO]: Joul3r[/127.142.209.193:33041] logged in with entity id 230569 at (-625.4395960420429, 33.20191928839045, 756.0003942396893)
+[00:28:53] [Server thread/INFO]: Joul3r joined the game
+[00:28:55] [Server thread/INFO]: [do_a_barrel_roll] Client of Joul3r accepted server config.
+[00:29:23] [Server thread/INFO]: [Not Secure] <Gathorin> hola
+[00:29:26] [Server thread/INFO]: [Not Secure] <Gathorin> gata rompehogares
+[00:29:30] [Server thread/INFO]: [Not Secure] <Gathorin> como tu tas
+[00:29:34] [Server thread/INFO]: [Not Secure] <Gathorin> no me respondas
+[00:29:35] [Server thread/INFO]: [Not Secure] <Gathorin> no importa
+[00:29:50] [Server thread/INFO]: ItsLiloRD teleported to -6800.0 64.0 -3984.0 minecraft:overworld
+[00:29:55] [Server thread/WARN]: ItsLiloRD moved too quickly! 0.0,-10.80652611000901,0.0
+[00:29:55] [Server thread/WARN]: Joul3r moved too quickly! -0.9376629312033629,-3.153548266416328,9.531761878497832
+[00:29:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5207ms or 104 ticks behind
+[00:29:55] [Server thread/INFO]: [Not Secure] <Gathorin> quitele los grilletes a theone
+[00:29:56] [Server thread/INFO]: [Not Secure] <Gathorin> ahora mismo
+[00:30:01] [Server thread/INFO]: [Not Secure] <SrLipord> dejalo ir
+[00:30:02] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> jajajaja
+[00:30:08] [Server thread/INFO]: Joul3r has made the advancement [Monster Hunter]
+[00:30:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[00:30:26] [Server thread/INFO]: ItsLiloRD teleported to -23424.0 64.0 -8192.0 minecraft:overworld
+[00:30:35] [Server thread/INFO]: [SrLipord: Played sound minecraft:disc to SrLipord]
+[00:30:38] [Server thread/INFO]: [SrLipord: Played sound minecraft:music_disc.pigstep to 6 players]
+[00:30:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9174ms or 183 ticks behind
+[00:30:59] [Server thread/INFO]: xXTHEONEXx teleported to -2287.5 160.0 -11887.5 minecraft:overworld
+[00:31:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
+[00:31:25] [Server thread/INFO]: xXTHEONEXx has made the advancement [You've Got a Friend in Me]
+[00:31:35] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> y eso?

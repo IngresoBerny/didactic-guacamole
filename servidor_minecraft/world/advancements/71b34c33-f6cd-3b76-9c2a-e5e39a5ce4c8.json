@@ -3844,6 +3844,102 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-18 23:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-18 23:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-18 23:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-18 23:40:42 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2025-04-18 23:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-18 23:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-18 23:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-18 23:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-18 23:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-18 23:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-18 23:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-04-18 23:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-04-18 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-04-18 23:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/resin_brick": {
+    "criteria": {
+      "has_resin_clump": "2025-04-18 23:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_block": {
+    "criteria": {
+      "has_resin_clump": "2025-04-18 23:57:41 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/pale_oak/pale_oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-18 23:57:57 +0000"
@@ -3869,39 +3965,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2025-04-18 23:40:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-04-18 23:40:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-04-18 23:40:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/resin_brick": {
-    "criteria": {
-      "has_resin_clump": "2025-04-18 23:57:41 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/pale_oak/pale_oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-18 23:57:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-04-18 23:40:42 +0000"
     },
     "done": true
   },
@@ -3917,36 +3983,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/honey_block_slide": {
-    "criteria": {
-      "honey_block_slide": "2025-04-18 23:44:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/resin_block": {
-    "criteria": {
-      "has_resin_clump": "2025-04-18 23:57:41 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/andesite": {
-    "criteria": {
-      "has_wood": "2025-04-18 23:40:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-04-18 23:40:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/honey_bottle": {
-    "criteria": {
-      "has_honey_block": "2025-04-18 23:44:00 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/pale_oak/pale_oak_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-18 23:57:57 +0000"
@@ -3956,12 +3992,6 @@
   "mcwtrpdoors:recipes/pale_oak/pale_oak_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-18 23:57:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-04-18 23:40:42 +0000"
     },
     "done": true
   },
@@ -3977,12 +4007,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2025-04-18 23:40:42 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/pale_oak/pale_oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-18 23:57:57 +0000"
@@ -3995,33 +4019,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall": {
-    "criteria": {
-      "has_andesite": "2025-04-18 23:40:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab": {
-    "criteria": {
-      "has_andesite": "2025-04-18 23:40:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-04-18 23:40:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pale_oak_wood": {
     "criteria": {
       "has_log": "2025-04-18 23:57:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2025-04-18 23:50:40 +0000"
     },
     "done": true
   },
