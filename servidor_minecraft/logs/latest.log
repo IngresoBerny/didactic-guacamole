@@ -474,3 +474,109 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [00:52:17] [Server thread/INFO]: KHPL707 teleported to -610.5 79.0 109.5 minecraft:overworld
 [00:52:24] [Server thread/INFO]: [Not Secure] <KHPL707> LE VOI A DECIR A YIOEK
 [00:52:37] [Server thread/INFO]: [Not Secure] <KHPL707> NO PUEDO
+[00:53:01] [Server thread/INFO]: [Not Secure] <KHPL707> NOOOOOOOOOOO
+[00:53:03] [Server thread/INFO]: [Not Secure] <KHPL707> SACALO
+[00:53:05] [Server thread/INFO]: [Not Secure] <KHPL707> CORRELE
+[00:53:50] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-18.0.798-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-4.4.0+db5e668204-3d67c883c023e00c.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:54:05] [Server thread/INFO]: KHPL707 teleported to 482.5 72.0 -920.5 minecraft:overworld
+[00:54:09] [Server thread/INFO]: ItsLiloRD has made the advancement [Under Lock and Key]
+[00:54:28] [Server thread/INFO]: [Not Secure] <Gathorin> eso ta prohibido
+[00:54:31] [Server thread/INFO]: [Not Secure] <ItsLiloRD> a
+[00:54:31] [Server thread/INFO]: [Not Secure] <Gathorin> la chamber
+[00:54:41] [Server thread/INFO]: [Not Secure] <ItsLiloRD> enserio
+[00:54:47] [Server thread/INFO]: [Not Secure] <Gathorin> si, la haremos todos juntos
+[00:54:50] [Server thread/INFO]: [Not Secure] <ItsLiloRD> a
+[00:54:53] [Server thread/INFO]: [Not Secure] <ItsLiloRD> pos me voy
+[00:54:58] [Server thread/INFO]: [Not Secure] <KHPL707> KAXMAKJSKASD
+[00:55:03] [Server thread/INFO]: ItsLiloRD teleported to -24297.0 -29.0 -6755.0 minecraft:overworld
+[00:55:07] [Server thread/INFO]: [Gathorin: Teleported Gathorin to KHPL707]
+[00:56:05] [Server thread/INFO]: [Not Secure] <KHPL707> GATHO NO SEAS AMBRIADO Q TIENES MAS Q YO
+[00:56:26] [Server thread/INFO]: [Not Secure] <KHPL707> AQUI NO ES MI CASA
+[00:56:28] [Server thread/INFO]: [Not Secure] <KHPL707> ES ACA
+[00:56:31] [Server thread/INFO]: KHPL707 teleported to 3491.5 116.0 -67.5 minecraft:overworld
+[00:56:37] [Server thread/INFO]: [Gathorin: Teleported Gathorin to KHPL707]
+[00:56:38] [Server thread/INFO]: [Not Secure] <KHPL707> VEN
+[00:56:52] [Server thread/INFO]: [Not Secure] <Gathorin> dond
+[00:56:59] [Server thread/INFO]: [Not Secure] <Gathorin> aaa aca
+[00:57:12] [Server thread/INFO]: [Not Secure] <Gathorin> pq te fuite
+[00:57:24] [Server thread/INFO]: [Not Secure] <KHPL707> QUIEN
+[00:57:33] [Server thread/INFO]: [Not Secure] <Gathorin> tu
+[00:57:35] [Server thread/INFO]: [Not Secure] <Gathorin> de la otra casa
+[00:57:48] [Server thread/INFO]: [Not Secure] <KHPL707> PQ ESTA MAS BONITO ACA
+[00:57:56] [Server thread/INFO]: [Not Secure] <KHPL707> Y YIOEK DIJO Q PARECIA PERU DONDE VIVIAMOS
+[00:58:02] [Server thread/INFO]: [Not Secure] <Gathorin> XDDD
+[00:58:30] [Server thread/INFO]: [Not Secure] <KHPL707> AYUDAME A ILUMINAR
+[00:58:39] [Server thread/INFO]: Joul3r has made the advancement [Diamonds!]
+[00:58:58] [Server thread/INFO]: [Not Secure] <Gathorin> te ayudo si me das muchas zanahorias
+[00:59:19] [Server thread/INFO]: [Not Secure] <ItsLiloRD> ENCONTRE ARMADURA DE HIERRO, QUIEN LA QUIERE?
+[00:59:24] [Server thread/WARN]: entity.terrestria.cypress_boat (vehicle of Joul3r) moved too quickly! 3.302027282954441,0.0,9.861874134594814
+[00:59:24] [Server thread/WARN]: entity.terrestria.cypress_boat (vehicle of Joul3r) moved too quickly! 3.429028316341146,0.0,10.241176991627128
+[00:59:41] [Server thread/INFO]: [Not Secure] <ItsLiloRD> ENCANTADA POR CIERTO
+[01:00:02] [Server thread/INFO]: [Not Secure] <KHPL707> YOOOOO
+[01:00:15] [Server thread/INFO]: [Not Secure] <ItsLiloRD> oki
+[01:00:58] [Server thread/INFO]: [ItsLiloRD: Teleported ItsLiloRD to KHPL707]
+[01:01:03] [Server thread/INFO]: Jhoec[/127.182.93.252:43657] logged in with entity id 262230 at (103.65128327829711, 86.0, -1368.2185739695915)
+[01:01:03] [Server thread/INFO]: Jhoec joined the game
+[01:01:04] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
+[01:01:09] [Server thread/INFO]: [Not Secure] <KHPL707> DAME
+[01:01:44] [Server thread/INFO]: [Not Secure] <KHPL707> GRACIAS
+[01:01:51] [Server thread/INFO]: [Not Secure] <KHPL707> LILO
+[01:01:59] [Server thread/INFO]: [Not Secure] <ItsLiloRD> siempre
+[01:02:48] [Server thread/INFO]: Jhoec lost connection: Disconnected
+[01:02:48] [Server thread/INFO]: Jhoec left the game
+[01:03:18] [Server thread/INFO]: KHPL707 teleported to 482.5 72.0 -920.5 minecraft:overworld
+[01:03:26] [Server thread/INFO]: ItsLiloRD teleported to -1296.5 87.0 -737.5 minecraft:overworld
+[01:03:49] [Server thread/INFO]: Jhoec[/127.182.93.252:52411] logged in with entity id 266638 at (142.12258688612022, 83.0, -1249.5903792289782)
+[01:03:49] [Server thread/INFO]: Jhoec joined the game
+[01:03:50] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
+[01:04:09] [Server thread/INFO]: Jhoec lost connection: Disconnected
+[01:04:09] [Server thread/INFO]: Jhoec left the game
+[01:06:28] [Server thread/INFO]: KHPL707 teleported to 3491.5 116.0 -67.5 minecraft:overworld
+[01:07:26] [Server thread/INFO]: ItsLiloRD lost connection: Disconnected
+[01:07:26] [Server thread/INFO]: ItsLiloRD left the game
+[01:09:55] [Server thread/INFO]: Jhoec[/127.182.93.252:36577] logged in with entity id 271495 at (142.54747368505096, 83.0, -1249.5538918706295)
+[01:09:55] [Server thread/INFO]: Jhoec joined the game
+[01:09:56] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
+[01:10:01] [Server thread/INFO]: Jhoec lost connection: Disconnected
+[01:10:01] [Server thread/INFO]: Jhoec left the game
+[01:11:14] [Server thread/INFO]: Jhoec[/127.182.93.252:38329] logged in with entity id 273357 at (142.54747368505096, 83.0, -1249.5538918706295)
+[01:11:14] [Server thread/INFO]: Jhoec joined the game
+[01:11:16] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
+[01:11:20] [Server thread/INFO]: [Gathorin: Teleported Gathorin to KHPL707]
+[01:11:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'neoforge:swim_speed'
+[01:11:42] [Server thread/INFO]: [Jhoec: Teleported Jhoec to KHPL707]
+[01:12:25] [Server thread/INFO]: Luna_trix[/127.48.164.216:42077] logged in with entity id 275089 at (56835.39585102884, 74.0, 1055840.0041387852)
+[01:12:25] [Server thread/INFO]: Luna_trix joined the game
+[01:12:26] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
+[01:12:46] [Server thread/INFO]: [Gathorin: Teleported Gathorin to KHPL707]
+[01:13:20] [Server thread/INFO]: Jhoec was slain by Zombie
+[01:13:23] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
+[01:13:31] [Server thread/INFO]: [Luna_trix: Teleported Luna_trix to Gathorin]
+[01:13:38] [Server thread/INFO]: [Jhoec: Teleported Jhoec to Gathorin]
+[01:13:41] [Server thread/INFO]: Luna_trix was burned to a crisp while fighting Gathorin
