@@ -865,17 +865,20 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:cave_spider": "2025-04-17 22:09:35 +0000",
       "minecraft:skeleton": "2025-04-16 03:33:02 +0000",
-      "minecraft:breeze": "2025-04-19 00:53:22 +0000",
-      "minecraft:enderman": "2025-04-17 21:15:50 +0000",
+      "minecraft:phantom": "2025-04-19 07:32:13 +0000",
       "minecraft:witch": "2025-04-17 22:14:06 +0000",
+      "minecraft:husk": "2025-04-19 00:51:14 +0000",
+      "minecraft:cave_spider": "2025-04-17 22:09:35 +0000",
+      "minecraft:breeze": "2025-04-19 00:53:22 +0000",
+      "minecraft:vindicator": "2025-04-19 06:38:21 +0000",
+      "minecraft:enderman": "2025-04-17 21:15:50 +0000",
+      "minecraft:stray": "2025-04-19 06:38:18 +0000",
       "minecraft:spider": "2025-04-16 03:13:36 +0000",
       "minecraft:zombie": "2025-04-16 03:13:38 +0000",
       "minecraft:creeper": "2025-04-16 03:35:02 +0000",
       "minecraft:drowned": "2025-04-17 22:14:24 +0000",
-      "minecraft:zombie_villager": "2025-04-17 22:03:39 +0000",
-      "minecraft:husk": "2025-04-19 00:51:14 +0000"
+      "minecraft:zombie_villager": "2025-04-17 22:03:39 +0000"
     },
     "done": false
   },
@@ -3630,6 +3633,42 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-04-19 00:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-19 06:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-19 06:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-19 06:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-19 06:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-19 06:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-19 07:26:15 +0000"
     },
     "done": true
   },

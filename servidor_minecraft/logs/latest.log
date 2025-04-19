@@ -1,10 +1,10 @@
-[05:28:58] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.13
-[05:29:03] [main/WARN]: Warnings were found!
+[07:23:06] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.13
+[07:23:06] [main/WARN]: Warnings were found!
  - Mod 'Bridging Mod' (bridgingmod) 2.6.2+1.21.3 recommends version 12.0.0-beta.1 or later of modmenu, which is missing!
 	 - You should install version 12.0.0-beta.1 or later of modmenu for the optimal experience.
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.4.1 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[05:29:03] [main/INFO]: Loading 170 mods:
+[07:23:06] [main/INFO]: Loading 171 mods:
 	- amplified_nether 1.2.7
 	- appleskin 3.0.6+mc1.21.3
 	- architectury 15.0.3
@@ -14,6 +14,7 @@
 	- betteradvancements 0.4.6.36
 	- bettervillage 3.3.0
 	- bridgingmod 2.6.2+1.21.3
+	- carryon 2.3.0
 	- chunky 1.4.27
 	- cicada 0.11.9+1.21.4
 	- cloth-config 17.0.144
@@ -198,178 +199,521 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[05:29:04] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/didactic-guacamole/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[05:29:04] [main/INFO]: Compatibility level set to JAVA_21
-[05:29:04] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:29:04] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:29:04] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:29:04] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:29:04] [main/WARN]: Reference map 'durabilitytooltip.mixins.refmap.json' for durabilitytooltip.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:29:04] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:29:04] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:29:04] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:29:04] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:29:04] [main/INFO]: Loaded configuration file for ModernFix 5.20.3+mc1.21.4: 54 options available, 0 override(s) found
-[05:29:04] [main/INFO]: Applying Nashorn fix
-[05:29:04] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:29:05] [main/WARN]: Error loading class: net/minecraft/class_458 (java.lang.ClassNotFoundException: net/minecraft/class_458)
-[05:29:05] [main/WARN]: @Mixin target net.minecraft.class_458 was not found crawl.client.mixins.json:ControlsScreenMixin from mod crawl
-[05:29:05] [main/WARN]: Error loading class: net/minecraft/class_572 (java.lang.ClassNotFoundException: net/minecraft/class_572)
-[05:29:05] [main/WARN]: @Mixin target net.minecraft.class_572 was not found crawl.client.mixins.json:HumanoidModelMixin from mod crawl
-[05:29:05] [main/WARN]: Error loading class: net/minecraft/class_10034 (java.lang.ClassNotFoundException: net/minecraft/class_10034)
-[05:29:05] [main/WARN]: @Mixin target net.minecraft.class_10034 was not found crawl.client.mixins.json:HumanoidRenderStateMixin from mod crawl
-[05:29:05] [main/WARN]: Error loading class: net/minecraft/class_746 (java.lang.ClassNotFoundException: net/minecraft/class_746)
-[05:29:05] [main/WARN]: @Mixin target net.minecraft.class_746 was not found crawl.client.mixins.json:LocalPlayerMixin from mod crawl
-[05:29:05] [main/WARN]: Error loading class: net/minecraft/class_315 (java.lang.ClassNotFoundException: net/minecraft/class_315)
-[05:29:05] [main/WARN]: @Mixin target net.minecraft.class_315 was not found crawl.client.mixins.json:OptionsMixin from mod crawl
-[05:29:05] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
-[05:29:05] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found crawl.client.mixins.json:PlayerRendererMixin from mod crawl
-[05:29:05] [main/WARN]: Error loading class: dev/tr7zw/firstperson/LogicHandler (java.lang.ClassNotFoundException: dev/tr7zw/firstperson/LogicHandler)
-[05:29:05] [main/WARN]: @Mixin target dev.tr7zw.firstperson.LogicHandler was not found crawl.compat.fpm.mixins.json:LogicHandlerMixin from mod crawl
-[05:29:05] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
-[05:29:05] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
-[05:29:06] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[05:29:06] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[05:29:06] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[05:29:11] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[05:29:16] [main/INFO]: Vanilla bootstrap took 8968 milliseconds
-[05:29:17] [main/INFO]: Hello Fabric world!
-[05:29:17] [main/INFO]: Biolith for Fabric is initializing...
-[05:29:17] [main/INFO]: Loading Collective version 8.1.
-[05:29:17] [main/INFO]: Constructing common components for diagonalblocks:main
-[05:29:17] [main/INFO]: Constructing common components for diagonalfences:main
-[05:29:17] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 361ms
-[05:29:18] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 58ms
-[05:29:18] [Cicada thread 0/INFO]: 'I AM THE EGGEST OF THEM ALL' - Louise_DS (she/her)
-[05:29:18] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 115ms
-[05:29:18] [main/INFO]: Constructing common components for easyanvils:main
-[05:29:18] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
-[05:29:18] [main/INFO]: Constructing common components for easymagic:main
-[05:29:18] [main/INFO]: Dispatching loading event for config easymagic-common.toml
-[05:29:18] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
-[05:29:18] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
-[05:29:19] [main/INFO]: Initializing JamLib on Fabric
-[05:29:19] [main/INFO]: Initializing ServerSide Packet Registries
-[05:29:19] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[05:29:19] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
-[05:29:19] [main/INFO]: ---------------------------
-[05:29:19] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
-[05:29:19] [main/INFO]:  
-[05:29:19] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
-[05:29:19] [main/INFO]: Open Imaging is licensed under Apache-2.0.
-[05:29:19] [main/INFO]:  
-[05:29:19] [main/INFO]: JsonPath Copyright © 2017 Jayway.
-[05:29:19] [main/INFO]: JsonPath is licensed under Apache-2.0.
-[05:29:19] [main/INFO]:  
-[05:29:19] [main/INFO]: Json-smart Copyright © netplex.
-[05:29:19] [main/INFO]: Json-smart is licensed under Apache-2.0.
-[05:29:19] [main/INFO]:  
-[05:29:19] [main/INFO]: Exp4j Copyright © Frank Asseg.
-[05:29:19] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
-[05:29:19] [main/INFO]: ---------------------------
-[05:29:19] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
-[05:29:19] [main/INFO]: Initialize mod Library Ferret
-[05:29:19] [main/INFO]: Initialized mod Library Ferret
-[05:29:20] [main/INFO]: Constructing common components for puzzleslib:main
-[05:29:20] [main/INFO]: Updated config file at /workspaces/didactic-guacamole/servidor_minecraft/config/rightclickharvest.json5
-[05:29:20] [main/INFO]: Initializing Right Click Harvest on FABRIC
-[05:29:20] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[05:29:20] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
-[05:29:20] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
-[05:29:20] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
-[05:29:20] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[05:29:20] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[05:29:20] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[05:29:20] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[05:29:20] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[05:29:20] [main/INFO]: Enabling Terrestria's Biolith worldgen module.
-[05:29:21] [main/INFO]: [STDOUT]: Initialize WeaponMaster
-[05:29:21] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:29:22] [main/INFO]: Collected 0 data resources in 178.395090ms:
+[07:23:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/didactic-guacamole/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[07:23:06] [main/INFO]: Compatibility level set to JAVA_21
+[07:23:07] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:23:07] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:23:07] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:23:07] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:23:07] [main/WARN]: Reference map 'durabilitytooltip.mixins.refmap.json' for durabilitytooltip.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:23:07] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:23:07] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:23:07] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:23:07] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:23:07] [main/INFO]: Loaded configuration file for ModernFix 5.20.3+mc1.21.4: 54 options available, 0 override(s) found
+[07:23:07] [main/INFO]: Applying Nashorn fix
+[07:23:07] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:23:07] [main/WARN]: Error loading class: net/minecraft/class_458 (java.lang.ClassNotFoundException: net/minecraft/class_458)
+[07:23:07] [main/WARN]: @Mixin target net.minecraft.class_458 was not found crawl.client.mixins.json:ControlsScreenMixin from mod crawl
+[07:23:07] [main/WARN]: Error loading class: net/minecraft/class_572 (java.lang.ClassNotFoundException: net/minecraft/class_572)
+[07:23:07] [main/WARN]: @Mixin target net.minecraft.class_572 was not found crawl.client.mixins.json:HumanoidModelMixin from mod crawl
+[07:23:07] [main/WARN]: Error loading class: net/minecraft/class_10034 (java.lang.ClassNotFoundException: net/minecraft/class_10034)
+[07:23:07] [main/WARN]: @Mixin target net.minecraft.class_10034 was not found crawl.client.mixins.json:HumanoidRenderStateMixin from mod crawl
+[07:23:07] [main/WARN]: Error loading class: net/minecraft/class_746 (java.lang.ClassNotFoundException: net/minecraft/class_746)
+[07:23:07] [main/WARN]: @Mixin target net.minecraft.class_746 was not found crawl.client.mixins.json:LocalPlayerMixin from mod crawl
+[07:23:07] [main/WARN]: Error loading class: net/minecraft/class_315 (java.lang.ClassNotFoundException: net/minecraft/class_315)
+[07:23:07] [main/WARN]: @Mixin target net.minecraft.class_315 was not found crawl.client.mixins.json:OptionsMixin from mod crawl
+[07:23:07] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
+[07:23:07] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found crawl.client.mixins.json:PlayerRendererMixin from mod crawl
+[07:23:07] [main/WARN]: Error loading class: dev/tr7zw/firstperson/LogicHandler (java.lang.ClassNotFoundException: dev/tr7zw/firstperson/LogicHandler)
+[07:23:07] [main/WARN]: @Mixin target dev.tr7zw.firstperson.LogicHandler was not found crawl.compat.fpm.mixins.json:LogicHandlerMixin from mod crawl
+[07:23:07] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[07:23:07] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[07:23:08] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[07:23:08] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[07:23:08] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[07:23:11] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[07:23:16] [main/INFO]: Vanilla bootstrap took 6788 milliseconds
+[07:23:16] [main/INFO]: Hello Fabric world!
+[07:23:16] [main/INFO]: Biolith for Fabric is initializing...
+[07:23:16] [main/INFO]: Loading Collective version 8.1.
+[07:23:16] [main/INFO]: Constructing common components for diagonalblocks:main
+[07:23:16] [main/INFO]: Constructing common components for diagonalfences:main
+[07:23:17] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 160ms
+[07:23:17] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 53ms
+[07:23:17] [Cicada thread 0/INFO]: [do_a_barrel_roll] Why play a flight sim when you have modded Minecraft?
+[07:23:17] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 191ms
+[07:23:17] [main/INFO]: Constructing common components for easyanvils:main
+[07:23:17] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
+[07:23:17] [main/INFO]: Constructing common components for easymagic:main
+[07:23:17] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[07:23:17] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[07:23:17] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[07:23:18] [main/INFO]: Initializing JamLib on Fabric
+[07:23:18] [main/INFO]: Initializing ServerSide Packet Registries
+[07:23:18] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[07:23:18] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
+[07:23:18] [main/INFO]: ---------------------------
+[07:23:18] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[07:23:18] [main/INFO]:  
+[07:23:18] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
+[07:23:18] [main/INFO]: Open Imaging is licensed under Apache-2.0.
+[07:23:18] [main/INFO]:  
+[07:23:18] [main/INFO]: JsonPath Copyright © 2017 Jayway.
+[07:23:18] [main/INFO]: JsonPath is licensed under Apache-2.0.
+[07:23:18] [main/INFO]:  
+[07:23:18] [main/INFO]: Json-smart Copyright © netplex.
+[07:23:18] [main/INFO]: Json-smart is licensed under Apache-2.0.
+[07:23:18] [main/INFO]:  
+[07:23:18] [main/INFO]: Exp4j Copyright © Frank Asseg.
+[07:23:18] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[07:23:18] [main/INFO]: ---------------------------
+[07:23:18] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
+[07:23:18] [main/INFO]: Initialize mod Library Ferret
+[07:23:18] [main/INFO]: Initialized mod Library Ferret
+[07:23:19] [main/INFO]: Constructing common components for puzzleslib:main
+[07:23:19] [main/INFO]: Updated config file at /workspaces/didactic-guacamole/servidor_minecraft/config/rightclickharvest.json5
+[07:23:19] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[07:23:19] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[07:23:19] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[07:23:19] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[07:23:19] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[07:23:19] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[07:23:19] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[07:23:19] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[07:23:19] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[07:23:19] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[07:23:19] [main/INFO]: Enabling Terrestria's Biolith worldgen module.
+[07:23:19] [main/INFO]: [STDOUT]: Initialize WeaponMaster
+[07:23:20] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:23:20] [main/INFO]: Found new data pack carryon, loading it automatically
+[07:23:20] [main/INFO]: Collected 0 data resources in 57.614584ms:
 
-[05:29:23] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[05:29:26] [main/INFO]: Loaded 2519 recipes
-[05:29:26] [main/INFO]: Loaded 2064 advancements
-[05:29:26] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 77 translation keys
-[05:29:26] [main/WARN]: Recipe packedup:diamond_from_silver can't be placed due to empty ingredients and will be ignored
-[05:29:26] [main/WARN]: Recipe packedup:silver_from_copper can't be placed due to empty ingredients and will be ignored
-[05:29:26] [main/WARN]: Recipe packedup:silver_from_iron can't be placed due to empty ingredients and will be ignored
-[05:29:27] [main/INFO]: Applied 510 biome modifications to 168 of 188 new biomes in 30.27 ms
-[05:29:27] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
-[05:29:27] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
-[05:29:27] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[05:29:27] [Server thread/INFO]: Loading properties
-[05:29:27] [Server thread/INFO]: Default game type: SURVIVAL
-[05:29:27] [Server thread/INFO]: Generating keypair
-[05:29:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:29:27] [Server thread/INFO]: Using epoll channel type
-[05:29:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:29:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:29:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:29:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:29:27] [Server thread/INFO]: Preparing level "world"
-[05:29:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:29:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:29:29] [Worker-Main-3/INFO]: Preparing spawn area: 16%
-[05:29:29] [Server thread/INFO]: Time elapsed: 673 ms
-[05:29:29] [Server thread/INFO]: Done (1.421s)! For help, type "help"
-[05:29:29] [Server thread/WARN]: Dedicated server took 41.288 seconds to load
-[05:29:29] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[05:29:29] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
-[05:29:29] [Server thread/INFO]: [REI] Plugins (3):
-[05:29:29] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[05:29:29] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[05:29:29] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[05:29:29] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[05:29:29] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 2.032 ms, totaling 83.41 ms.
-[05:29:29] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[05:29:29] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
-[05:29:29] [Server thread/INFO]: [REI] Plugins (3):
-[05:29:29] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[05:29:29] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[05:29:29] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[05:29:29] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[05:29:29] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 1.236 ms, totaling 105.5 ms.
-[05:29:29] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
-[05:29:29] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[05:29:29] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[05:29:29] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[05:29:29] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[05:29:29] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[05:29:29] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
-[05:29:29] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
-[05:29:29] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[05:29:29] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@2ac85f0f for service interface journeymap.api.services.ClientPlatformService
-[05:29:29] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@1aad430d for service interface journeymap.api.services.CommonPlatformService
-[05:29:34] [Server thread/INFO]: xXTHEONEXx[/127.193.56.197:48489] logged in with entity id 88 at (66.30000001192093, 250.0, -15240.365252580723)
-[05:29:34] [Server thread/INFO]: xXTHEONEXx joined the game
-[05:29:35] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
-[05:31:25] [Server thread/INFO]: xXTHEONEXx teleported to -12268.5 -5.0 -1811.5 minecraft:overworld
-[05:31:29] [Server thread/INFO]: xXTHEONEXx teleported to -12269.5 -9.0 -1806.5 minecraft:overworld
-[05:32:00] [Server thread/INFO]: xXTHEONEXx teleported to -12268.5 -5.0 -1811.5 minecraft:overworld
-[05:32:42] [Server thread/INFO]: xXTHEONEXx teleported to -12269.5 -9.0 -1806.5 minecraft:overworld
-[05:33:06] [Server thread/INFO]: xXTHEONEXx teleported to -12268.5 -5.0 -1811.5 minecraft:overworld
-[05:36:57] [Server thread/INFO]: xXTHEONEXx teleported to -12269.5 -9.0 -1806.5 minecraft:overworld
-[05:37:15] [Server thread/INFO]: xXTHEONEXx teleported to -12268.5 -5.0 -1811.5 minecraft:overworld
-[05:37:44] [Server thread/INFO]: xXTHEONEXx teleported to -12269.5 -9.0 -1806.5 minecraft:overworld
-[05:37:56] [Server thread/INFO]: xXTHEONEXx teleported to -2287.5 160.0 -11887.5 minecraft:overworld
-[05:39:21] [Server thread/INFO]: xXTHEONEXx teleported to -12268.5 -5.0 -1811.5 minecraft:overworld
-[05:41:17] [Server thread/INFO]: xXTHEONEXx teleported to -12269.5 -9.0 -1806.5 minecraft:overworld
-[05:41:33] [Server thread/INFO]: xXTHEONEXx teleported to -12268.5 -5.0 -1811.5 minecraft:overworld
-[05:43:25] [Server thread/INFO]: xXTHEONEXx teleported to -12269.5 -9.0 -1806.5 minecraft:overworld
-[05:43:45] [Server thread/INFO]: xXTHEONEXx teleported to -12268.5 -5.0 -1811.5 minecraft:overworld
-[05:44:56] [Server thread/INFO]: xXTHEONEXx teleported to -12269.5 -9.0 -1806.5 minecraft:overworld
-[05:45:07] [Server thread/INFO]: xXTHEONEXx teleported to -2287.5 160.0 -11887.5 minecraft:overworld
-[05:45:26] [Server thread/INFO]: ItsLiloRD[/127.85.73.146:42563] logged in with entity id 5681 at (-1302.0033446254793, 88.0, -740.6798863489444)
-[05:45:26] [Server thread/INFO]: ItsLiloRD joined the game
-[05:45:27] [Server thread/INFO]: [do_a_barrel_roll] Client of ItsLiloRD accepted server config.
-[05:46:13] [Server thread/INFO]: Gathorin[/127.47.238.219:33311] logged in with entity id 6219 at (3471.454788980215, 118.0, -64.93893028528943)
-[05:46:13] [Server thread/INFO]: Gathorin joined the game
-[05:46:14] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathorin accepted server config.
-[05:46:40] [Server thread/INFO]: Gathorin teleported to -293.5 -52.0 197.5 minecraft:overworld
-[05:46:59] [Server thread/INFO]: xXTHEONEXx teleported to -12268.5 -5.0 -1811.5 minecraft:overworld
-[05:47:10] [Server thread/INFO]: Gathorin teleported to 56833.5 74.0 1055842.5 minecraft:overworld
-[05:47:59] [Server thread/INFO]: Gathorin teleported to 57085.0 68.0 1055853.0 minecraft:overworld
-[05:48:29] [Server thread/INFO]: [xXTHEONEXx: Teleported xXTHEONEXx to ItsLiloRD]
-[05:48:37] [Worker-Main-2/WARN]: Couldn't find template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
-[05:49:03] [Server thread/INFO]: [Gathorin: Teleported Gathorin to xXTHEONEXx]
+[07:23:21] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[07:23:23] [main/INFO]: Loaded 2519 recipes
+[07:23:23] [main/INFO]: Loaded 2064 advancements
+[07:23:23] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 77 translation keys
+[07:23:24] [main/WARN]: Recipe packedup:diamond_from_silver can't be placed due to empty ingredients and will be ignored
+[07:23:24] [main/WARN]: Recipe packedup:silver_from_copper can't be placed due to empty ingredients and will be ignored
+[07:23:24] [main/WARN]: Recipe packedup:silver_from_iron can't be placed due to empty ingredients and will be ignored
+[07:23:24] [main/INFO]: Applied 510 biome modifications to 168 of 188 new biomes in 25.37 ms
+[07:23:24] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
+[07:23:24] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
+[07:23:24] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[07:23:24] [Server thread/INFO]: Loading properties
+[07:23:24] [Server thread/INFO]: Default game type: SURVIVAL
+[07:23:24] [Server thread/INFO]: Generating keypair
+[07:23:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:23:24] [Server thread/INFO]: Using epoll channel type
+[07:23:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:23:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:23:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:23:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:23:24] [Server thread/INFO]: Preparing level "world"
+[07:23:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:23:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:25] [Server thread/INFO]: Time elapsed: 498 ms
+[07:23:25] [Server thread/INFO]: Done (1.124s)! For help, type "help"
+[07:23:25] [Server thread/WARN]: Dedicated server took 20.599 seconds to load
+[07:23:25] [Server thread/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[07:23:25] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
+[07:23:25] [Server thread/INFO]: [REI] Plugins (3):
+[07:23:25] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[07:23:25] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[07:23:25] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[07:23:25] [Server thread/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[07:23:26] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 2.374 ms, totaling 67.55 ms.
+[07:23:26] [Server thread/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[07:23:26] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
+[07:23:26] [Server thread/INFO]: [REI] Plugins (3):
+[07:23:26] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[07:23:26] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[07:23:26] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[07:23:26] [Server thread/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[07:23:26] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 971.5 μs, totaling 109.8 ms.
+[07:23:26] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
+[07:23:26] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[07:23:26] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[07:23:26] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[07:23:26] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[07:23:26] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[07:23:26] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
+[07:23:26] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[07:23:26] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[07:23:26] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@52b3856e for service interface journeymap.api.services.ClientPlatformService
+[07:23:26] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@7cb1821f for service interface journeymap.api.services.CommonPlatformService
+[07:23:35] [Server thread/INFO]: SrLipord[/127.124.207.5:52173] logged in with entity id 97 at (-713.3000000119209, 242.0, -13455.990615823805)
+[07:23:35] [Server thread/INFO]: SrLipord joined the game
+[07:23:36] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:24:32] [Server thread/INFO]: xXTHEONEXx[/127.193.56.197:33709] logged in with entity id 284 at (-1290.1738194556922, 86.0, -733.0993629861515)
+[07:24:32] [Server thread/INFO]: xXTHEONEXx joined the game
+[07:24:33] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[07:25:07] [Server thread/INFO]: [SrLipord: Teleported SrLipord to xXTHEONEXx]
+[07:25:15] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@2c602713, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
+	at knot/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-4.0+a4eebcf004-3f4cde47ac2bf19e.jar:?]
+	at knot/net.minecraft.class_3244$1.handler$zlh000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12062(class_3244.java:1731) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_65081(class_2824.java:15) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07:25:15] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@53d6752c, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
+	at knot/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-4.0+a4eebcf004-3f4cde47ac2bf19e.jar:?]
+	at knot/net.minecraft.class_3244$1.handler$zlh000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1877) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244$1.method_34220(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824$class_5910.method_34213(class_2824.java:154) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12062(class_3244.java:1731) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_65081(class_2824.java:15) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07:25:15] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@4d56eccd, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
+	at knot/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-4.0+a4eebcf004-3f4cde47ac2bf19e.jar:?]
+	at knot/net.minecraft.class_3244$1.handler$zlh000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12062(class_3244.java:1731) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_65081(class_2824.java:15) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07:25:35] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@520fd472, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
+	at knot/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-4.0+a4eebcf004-3f4cde47ac2bf19e.jar:?]
+	at knot/net.minecraft.class_3244$1.handler$zlh000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12062(class_3244.java:1731) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_65081(class_2824.java:15) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07:25:35] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@140c4fbd, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
+	at knot/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-4.0+a4eebcf004-3f4cde47ac2bf19e.jar:?]
+	at knot/net.minecraft.class_3244$1.handler$zlh000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1877) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244$1.method_34220(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824$class_5910.method_34213(class_2824.java:154) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12062(class_3244.java:1731) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_65081(class_2824.java:15) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07:25:35] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@321094e6, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
+	at knot/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-4.0+a4eebcf004-3f4cde47ac2bf19e.jar:?]
+	at knot/net.minecraft.class_3244$1.handler$zlh000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12062(class_3244.java:1731) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_65081(class_2824.java:15) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07:26:02] [Server thread/INFO]: ItsLiloRD[/127.85.73.146:39019] logged in with entity id 1882 at (-12268.626043387694, -9.0, -1806.7488516295944)
+[07:26:02] [Server thread/INFO]: ItsLiloRD joined the game
+[07:26:03] [Server thread/INFO]: [do_a_barrel_roll] Client of ItsLiloRD accepted server config.
+[07:26:15] [Server thread/INFO]: ItsLiloRD has made the advancement [Voluntary Exile]
+[07:26:25] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[07:26:25] [Server thread/INFO]: SrLipord left the game
+[07:26:29] [Server thread/INFO]: SrLipord[/127.124.207.5:35255] logged in with entity id 2795 at (-1276.46991419167, 85.0, -730.8431845998182)
+[07:26:29] [Server thread/INFO]: SrLipord joined the game
+[07:26:30] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:26:47] [Server thread/INFO]: [xXTHEONEXx: Teleported xXTHEONEXx to SrLipord]
+[07:26:52] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@10f3464b, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
+	at knot/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-4.0+a4eebcf004-3f4cde47ac2bf19e.jar:?]
+	at knot/net.minecraft.class_3244$1.handler$zlh000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12062(class_3244.java:1731) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_65081(class_2824.java:15) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07:26:52] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@7abf822d, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
+	at knot/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-4.0+a4eebcf004-3f4cde47ac2bf19e.jar:?]
+	at knot/net.minecraft.class_3244$1.handler$zlh000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1877) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244$1.method_34220(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824$class_5910.method_34213(class_2824.java:154) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12062(class_3244.java:1731) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_65081(class_2824.java:15) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07:26:52] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@66a28635, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
+	at knot/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-4.0+a4eebcf004-3f4cde47ac2bf19e.jar:?]
+	at knot/net.minecraft.class_3244$1.handler$zlh000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12062(class_3244.java:1731) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_65081(class_2824.java:15) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07:27:28] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@22075aaf, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
+	at knot/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-4.0+a4eebcf004-3f4cde47ac2bf19e.jar:?]
+	at knot/net.minecraft.class_3244$1.handler$zlh000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12062(class_3244.java:1731) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_65081(class_2824.java:15) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07:27:28] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@17ffe29, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
+	at knot/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-4.0+a4eebcf004-3f4cde47ac2bf19e.jar:?]
+	at knot/net.minecraft.class_3244$1.handler$zlh000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1877) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244$1.method_34220(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824$class_5910.method_34213(class_2824.java:154) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12062(class_3244.java:1731) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_65081(class_2824.java:15) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07:27:28] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@5c876ad2, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
+	at knot/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.4-2.3.0.22.jar:?]
+	at knot/net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-4.0+a4eebcf004-3f4cde47ac2bf19e.jar:?]
+	at knot/net.minecraft.class_3244$1.handler$zlh000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12062(class_3244.java:1731) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2824.method_65081(class_2824.java:15) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[07:28:22] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[07:28:22] [Server thread/INFO]: SrLipord left the game
+[07:28:27] [Server thread/INFO]: SrLipord[/127.124.207.5:37711] logged in with entity id 4447 at (-1278.6798265986852, 86.0, -720.0736103592936)
+[07:28:27] [Server thread/INFO]: SrLipord joined the game
+[07:28:28] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:30:41] [Server thread/INFO]: xXTHEONEXx lost connection: Disconnected
+[07:30:41] [Server thread/INFO]: xXTHEONEXx left the game
+[07:30:45] [Server thread/INFO]: xXTHEONEXx[/127.193.56.197:60651] logged in with entity id 6243 at (-1298.3619632757814, 87.0, -745.5925930819565)
+[07:30:45] [Server thread/INFO]: xXTHEONEXx joined the game
+[07:30:46] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[07:31:44] [Server thread/INFO]: ItsLiloRD teleported to -1292.5 89.0 -741.5 minecraft:overworld
+[07:32:50] [Server thread/INFO]: xXTHEONEXx lost connection: Disconnected
+[07:32:50] [Server thread/INFO]: xXTHEONEXx left the game
+[07:32:57] [Server thread/INFO]: xXTHEONEXx[/127.193.56.197:59647] logged in with entity id 7432 at (-1313.9035483233276, 89.0, -761.2714683474372)
+[07:32:57] [Server thread/INFO]: xXTHEONEXx joined the game
+[07:32:57] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[07:33:06] [Server thread/INFO]: SrLipord fell from a high place
+[07:33:08] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:33:13] [Server thread/INFO]: SrLipord teleported to -1297.5 87.0 -746.5 minecraft:overworld
+[07:34:10] [Server thread/INFO]: [xXTHEONEXx: Teleported xXTHEONEXx to SrLipord]
+[07:34:46] [Server thread/INFO]: SrLipord fell from a high place
+[07:34:48] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:34:51] [Server thread/INFO]: SrLipord teleported to -1298.5 87.0 -741.5 minecraft:overworld
+[07:39:20] [Server thread/INFO]: [xXTHEONEXx: Teleported xXTHEONEXx to SrLipord]
+[07:39:51] [Server thread/INFO]: xXTHEONEXx teleported to -2288.5 183.0 -11889.5 minecraft:overworld
+[07:40:01] [Server thread/INFO]: [xXTHEONEXx: Teleported xXTHEONEXx to SrLipord]
+[07:40:24] [Server thread/INFO]: [xXTHEONEXx: Teleported xXTHEONEXx to SrLipord]
+[07:40:50] [Server thread/INFO]: xXTHEONEXx has made the advancement [Best Friends Forever]
+[07:41:34] [Server thread/INFO]: ItsLiloRD teleported to -12270.5 -5.0 -1809.5 minecraft:overworld
+[07:41:47] [Server thread/INFO]: [xXTHEONEXx: Teleported xXTHEONEXx to SrLipord]
+[07:42:05] [Server thread/INFO]: [xXTHEONEXx: Teleported xXTHEONEXx to SrLipord]
+[07:42:09] [Server thread/INFO]: [xXTHEONEXx: Teleported xXTHEONEXx to ItsLiloRD]
+[07:42:10] [Server thread/INFO]: xXTHEONEXx was doomed to fall by SrLipord
+[07:42:11] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[07:42:18] [Server thread/INFO]: SrLipord was doomed to fall by xXTHEONEXx
+[07:42:20] [Server thread/INFO]: [xXTHEONEXx: Teleported xXTHEONEXx to ItsLiloRD]
+[07:42:20] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:42:24] [Server thread/INFO]: SrLipord teleported to -1262.5 86.0 -763.5 minecraft:overworld
+[07:42:34] [Server thread/INFO]: [xXTHEONEXx: Teleported xXTHEONEXx to SrLipord]

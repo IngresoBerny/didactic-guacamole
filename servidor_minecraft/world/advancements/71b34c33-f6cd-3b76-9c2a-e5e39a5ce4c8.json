@@ -1423,6 +1423,7 @@
       "minecraft:spider": "2025-04-14 02:55:14 +0000",
       "minecraft:zombie": "2025-04-14 00:24:51 +0000",
       "minecraft:creeper": "2025-04-14 02:40:04 +0000",
+      "minecraft:drowned": "2025-04-19 06:41:03 +0000",
       "minecraft:zombie_villager": "2025-04-18 20:58:11 +0000"
     },
     "done": false
@@ -4078,6 +4079,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-04-19 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-04-19 05:55:03 +0000"
     },
     "done": true
   },
