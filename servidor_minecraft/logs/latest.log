@@ -1511,3 +1511,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [03:23:54] [Server thread/WARN]: xXTHEONEXx moved too quickly! 4.72834990882555,-5.955187579600988,-6.5512165544223535
 [03:23:56] [Server thread/INFO]: SrLipord lost connection: Disconnected
 [03:23:56] [Server thread/INFO]: SrLipord left the game
+[03:27:53] [Server thread/INFO]: xXTHEONEXx lost connection: Disconnected
+[03:27:53] [Server thread/INFO]: xXTHEONEXx left the game
