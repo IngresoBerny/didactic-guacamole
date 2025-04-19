@@ -762,3 +762,7 @@ java.lang.Throwable
 [23:25:24] [Server thread/DEBUG] [REI] Player SrLipord has outdated displays version 0 [latest version: 99F1C7B00000001], sending reset packet request.
 [23:37:37] [Server thread/DEBUG] [REI] Player KHPL707 has outdated displays version 0 [latest version: 99F1C7B00000001]
 [23:37:37] [Server thread/DEBUG] [REI] Player KHPL707 has outdated displays version 0 [latest version: 99F1C7B00000001], sending reset packet request.
+[23:52:23] [Server thread/DEBUG] [REI] Player Gathorin has outdated displays version 0 [latest version: 99F1C7B00000001]
+[23:52:23] [Server thread/DEBUG] [REI] Player Gathorin has outdated displays version 0 [latest version: 99F1C7B00000001], sending reset packet request.
+[00:10:21] [Server thread/DEBUG] [REI] Player Joul3r has outdated displays version 0 [latest version: 99F1C7B00000001]
+[00:10:21] [Server thread/DEBUG] [REI] Player Joul3r has outdated displays version 0 [latest version: 99F1C7B00000001], sending reset packet request.

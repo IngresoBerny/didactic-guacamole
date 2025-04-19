@@ -1248,6 +1248,7 @@
       "bread": "2025-04-16 05:54:13 +0000",
       "cooked_chicken": "2025-04-18 07:23:26 +0000",
       "cookie": "2025-04-17 21:52:18 +0000",
+      "cooked_mutton": "2025-04-19 00:06:55 +0000",
       "potato": "2025-04-18 08:14:01 +0000",
       "cooked_beef": "2025-04-17 03:17:08 +0000",
       "baked_potato": "2025-04-16 06:26:17 +0000",
@@ -3538,7 +3539,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-04-18 23:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-04-18 23:43:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-04-18 23:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2025-04-18 23:43:29 +0000"
     },
@@ -3559,24 +3578,6 @@
   "minecraft:adventure/honey_block_slide": {
     "criteria": {
       "honey_block_slide": "2025-04-18 23:44:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
-    "criteria": {
-      "has_gold_ore": "2025-04-18 23:41:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/honey_bottle": {
-    "criteria": {
-      "has_honey_block": "2025-04-18 23:43:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/honeycomb_block": {
-    "criteria": {
-      "has_honeycomb": "2025-04-18 23:43:29 +0000"
     },
     "done": true
   },
