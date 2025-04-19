@@ -56,6 +56,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-04-14 00:02:25 +0000",
+      "minecraft:dark_forest": "2025-04-19 01:18:26 +0000",
       "minecraft:forest": "2025-04-18 06:41:10 +0000",
       "minecraft:ocean": "2025-04-14 00:09:59 +0000",
       "minecraft:jungle": "2025-04-15 02:08:08 +0000",
@@ -64,7 +65,8 @@
       "minecraft:lush_caves": "2025-04-14 01:08:51 +0000",
       "minecraft:dripstone_caves": "2025-04-16 01:57:54 +0000",
       "minecraft:plains": "2025-04-14 00:17:19 +0000",
-      "minecraft:jagged_peaks": "2025-04-15 01:41:57 +0000"
+      "minecraft:jagged_peaks": "2025-04-15 01:41:57 +0000",
+      "minecraft:pale_garden": "2025-04-19 01:18:29 +0000"
     },
     "done": false
   },
@@ -3132,6 +3134,78 @@
       "diamond_boots": "2025-04-17 03:32:22 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:22:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:22:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:22:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:22:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:22:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:22:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:22:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:22:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:22:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:22:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:22:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:22:03 +0000"
+    },
+    "done": false
   },
   "DataVersion": 4189
 }

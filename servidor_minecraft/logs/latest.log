@@ -580,3 +580,30 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [01:13:31] [Server thread/INFO]: [Luna_trix: Teleported Luna_trix to Gathorin]
 [01:13:38] [Server thread/INFO]: [Jhoec: Teleported Jhoec to Gathorin]
 [01:13:41] [Server thread/INFO]: Luna_trix was burned to a crisp while fighting Gathorin
+[01:13:44] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
+[01:13:57] [Server thread/INFO]: Luna_trix teleported to 3532.5 119.0 -63.5 minecraft:overworld
+[01:14:28] [Server thread/INFO]: Jhoec lost connection: Disconnected
+[01:14:28] [Server thread/INFO]: Jhoec left the game
+[01:14:46] [Server thread/INFO]: Joul3r has made the advancement [Isn't It Iron Pick]
+[01:15:25] [Server thread/INFO]: Jhoec[/127.182.93.252:59797] logged in with entity id 278512 at (3474.2803144523623, 118.0, -67.24499840191217)
+[01:15:25] [Server thread/INFO]: Jhoec joined the game
+[01:15:26] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
+[01:16:27] [Server thread/INFO]: Jhoec was slain by Enderman
+[01:16:29] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
+[01:16:49] [Server thread/INFO]: [Jhoec: Teleported Jhoec to Gathorin]
+[01:20:57] [Server thread/INFO]: KHPL707 lost connection: Disconnected
+[01:20:57] [Server thread/INFO]: KHPL707 left the game
+[01:21:00] [Server thread/INFO]: Luna_trix lost connection: Disconnected
+[01:21:00] [Server thread/INFO]: Luna_trix left the game
+[01:21:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@77b89de9[id=707fd3b5-67ad-3b33-a696-04a1ce89209e,name=Luna_trix,properties={}] lost connection: Disconnected
+[01:21:04] [Server thread/INFO]: Gathorin lost connection: Disconnected
+[01:21:04] [Server thread/INFO]: Gathorin left the game
+[01:21:15] [Server thread/INFO]: Luna_trix[/127.48.164.216:53897] logged in with entity id 281102 at (3472.6099922715107, 118.0, -67.92639790464887)
+[01:21:15] [Server thread/INFO]: Luna_trix joined the game
+[01:21:15] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
+[01:21:19] [Server thread/INFO]: Jhoec lost connection: Disconnected
+[01:21:19] [Server thread/INFO]: Jhoec left the game
+[01:21:24] [Server thread/INFO]: Luna_trix teleported to 56893.5 63.0 1055888.5 minecraft:overworld
+[01:22:07] [Server thread/INFO]: Joul3r has made the advancement [Not Today, Thank You]
+[01:22:59] [Server thread/INFO]: Luna_trix lost connection: Disconnected
+[01:22:59] [Server thread/INFO]: Luna_trix left the game

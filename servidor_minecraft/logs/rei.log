@@ -790,3 +790,7 @@ java.lang.Throwable
 [01:11:15] [Server thread/DEBUG] [REI] Player Jhoec has outdated displays version 0 [latest version: 99F1C7B00000001], sending reset packet request.
 [01:12:26] [Server thread/DEBUG] [REI] Player Luna_trix has outdated displays version 0 [latest version: 99F1C7B00000001]
 [01:12:26] [Server thread/DEBUG] [REI] Player Luna_trix has outdated displays version 0 [latest version: 99F1C7B00000001], sending reset packet request.
+[01:15:25] [Server thread/DEBUG] [REI] Player Jhoec has outdated displays version 0 [latest version: 99F1C7B00000001]
+[01:15:25] [Server thread/DEBUG] [REI] Player Jhoec has outdated displays version 0 [latest version: 99F1C7B00000001], sending reset packet request.
+[01:21:15] [Server thread/DEBUG] [REI] Player Luna_trix has outdated displays version 0 [latest version: 99F1C7B00000001]
+[01:21:15] [Server thread/DEBUG] [REI] Player Luna_trix has outdated displays version 0 [latest version: 99F1C7B00000001], sending reset packet request.
