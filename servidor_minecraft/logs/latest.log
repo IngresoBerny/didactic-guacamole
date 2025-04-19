@@ -1019,3 +1019,22 @@ java.lang.NullPointerException: Cannot read field "field_55576" because "furnace
 [08:03:16] [Server thread/INFO]: [SrLipord: Set the time to 12400]
 [08:04:45] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
 [08:04:56] [Server thread/INFO]: [SrLipord: Teleported SrLipord to xXTHEONEXx]
+[08:06:42] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[08:06:42] [Server thread/INFO]: SrLipord left the game
+[08:06:47] [Server thread/INFO]: xXTHEONEXx lost connection: Disconnected
+[08:06:47] [Server thread/INFO]: xXTHEONEXx left the game
+[08:06:47] [Server thread/INFO]: ItsLiloRD lost connection: Disconnected
+[08:06:47] [Server thread/INFO]: ItsLiloRD left the game
+[08:06:48] [Server thread/INFO]: Stopping the server
+[08:06:48] [Server thread/INFO]: Stopping server
+[08:06:48] [Server thread/INFO]: Saving players
+[08:06:48] [Server thread/INFO]: Saving worlds
+[08:06:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:06:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08:06:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08:06:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:06:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:06:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:06:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:06:49] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[08:06:49] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
